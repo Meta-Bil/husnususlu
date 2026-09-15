@@ -1,0 +1,1233 @@
+[
+    {
+        "id": "fdbb1c4",
+        "elType": "container",
+        "settings": {
+            "layout": "full_width",
+            "boxed_width": {
+                "unit": "px",
+                "size": "1200",
+                "sizes": []
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+                "horizontal": "0",
+                "vertical": "5",
+                "blur": "30",
+                "spread": "0",
+                "color": "rgba(0,0,0,0.1)"
+            },
+            "z_index": "10",
+            "_title": "Header",
+            "flex_direction": "column",
+            "flex_align_items": "center",
+            "flex_gap": {
+                "size": 0,
+                "unit": "px",
+                "column": "0",
+                "row": "0",
+                "isLinked": true
+            },
+            "content_width": "full",
+            "flex_wrap": "wrap",
+            "padding": {
+                "unit": "%",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+            },
+            "padding_tablet": {
+                "unit": "%",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+            },
+            "padding_mobile": {
+                "unit": "%",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+            },
+            "sticky": "top",
+            "background_background": "classic",
+            "width": {
+                "unit": "%",
+                "size": 100,
+                "sizes": []
+            }
+        },
+        "elements": [
+            {
+                "id": "cd20e4e",
+                "elType": "container",
+                "settings": {
+                    "width": {
+                        "unit": "px",
+                        "size": "1200",
+                        "sizes": []
+                    },
+                    "structure": "30",
+                    "background_background": "classic",
+                    "background_color": "#16163f",
+                    "margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": "1"
+                    },
+                    "margin_mobile": {
+                        "unit": "px",
+                        "top": "",
+                        "right": "0",
+                        "bottom": "",
+                        "left": "0",
+                        "isLinked": "1"
+                    },
+                    "padding": {
+                        "unit": "px",
+                        "top": "12",
+                        "right": "12",
+                        "bottom": "12",
+                        "left": "12",
+                        "isLinked": true
+                    },
+                    "padding_mobile": {
+                        "unit": "px",
+                        "top": "15",
+                        "right": "15",
+                        "bottom": "15",
+                        "left": "15",
+                        "isLinked": "1"
+                    },
+                    "reverse_order_mobile": "reverse-mobile",
+                    "flex_direction": "row",
+                    "flex_align_items": "stretch",
+                    "flex_gap": {
+                        "size": 10,
+                        "unit": "px",
+                        "column": "10",
+                        "row": "10",
+                        "isLinked": true
+                    },
+                    "boxed_width": {
+                        "unit": "px",
+                        "size": 1200,
+                        "sizes": []
+                    },
+                    "flex_justify_content": "space-between",
+                    "padding_tablet": {
+                        "unit": "px",
+                        "top": "27",
+                        "right": "15",
+                        "bottom": "27",
+                        "left": "15",
+                        "isLinked": false
+                    }
+                },
+                "elements": [
+                    {
+                        "id": "578aa7a",
+                        "elType": "container",
+                        "settings": {
+                            "_column_size": "33",
+                            "width": {
+                                "unit": "px",
+                                "size": 742
+                            },
+                            "hide_mobile": "hidden-mobile",
+                            "flex_justify_content": "center",
+                            "padding": {
+                                "unit": "px",
+                                "top": "0",
+                                "right": "0",
+                                "bottom": "0",
+                                "left": "0",
+                                "isLinked": "1"
+                            },
+                            "padding_tablet": {
+                                "unit": "px",
+                                "top": "",
+                                "right": "",
+                                "bottom": "",
+                                "left": "",
+                                "isLinked": "1"
+                            },
+                            "width_tablet": {
+                                "size": "75",
+                                "unit": "%"
+                            },
+                            "content_width": "full",
+                            "width_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "boxed_width": {
+                                "unit": "px",
+                                "size": 836,
+                                "sizes": []
+                            },
+                            "flex_direction": "column",
+                            "flex_align_items": "flex-start",
+                            "_flex_size": "none",
+                            "_element_width": "initial"
+                        },
+                        "elements": [
+                            {
+                                "id": "cf942f9",
+                                "elType": "widget",
+                                "settings": {
+                                    "view": "inline",
+                                    "icon_list": [
+                                        {
+                                            "text": "+90 216 234 1881",
+                                            "icon": "fa fa-phone",
+                                            "_id": "33ae49b",
+                                            "selected_icon": {
+                                                "value": "fas fa-phone",
+                                                "library": "fa-solid"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "tel:+902162341881",
+                                                "is_external": "",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        },
+                                        {
+                                            "text": "Whatsapp İletişim",
+                                            "icon": "fa fa-envelope",
+                                            "_id": "b3e8ba8",
+                                            "selected_icon": {
+                                                "value": "fab fa-whatsapp",
+                                                "library": "fa-brands"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "https://wa.me/905301718860",
+                                                "is_external": "",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        },
+                                        {
+                                            "text": "Adres Bilgisi için Tıklayınız.",
+                                            "icon": "fa fa-envelope",
+                                            "selected_icon": {
+                                                "value": "fas fa-map-marked-alt",
+                                                "library": "fa-solid"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "https://maps.app.goo.gl/HQ6rkDqY6yPTN35q7",
+                                                "is_external": "",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            },
+                                            "_id": "75e9eec"
+                                        }
+                                    ],
+                                    "space_between": {
+                                        "unit": "px",
+                                        "size": "30",
+                                        "sizes": []
+                                    },
+                                    "icon_align": "left",
+                                    "icon_color": "#ffffff",
+                                    "icon_size": {
+                                        "unit": "px",
+                                        "size": "16",
+                                        "sizes": []
+                                    },
+                                    "text_color": "#ffffff",
+                                    "text_indent": {
+                                        "unit": "px",
+                                        "size": "10",
+                                        "sizes": []
+                                    },
+                                    "icon_typography_typography": "custom",
+                                    "icon_typography_font_family": "Montserrat",
+                                    "icon_typography_font_size": {
+                                        "unit": "px",
+                                        "size": "14",
+                                        "sizes": []
+                                    },
+                                    "icon_typography_font_weight": "300",
+                                    "icon_align_mobile": "center",
+                                    "icon_typography_font_size_tablet": {
+                                        "unit": "px",
+                                        "size": 12,
+                                        "sizes": []
+                                    },
+                                    "text": "Adres için Tıklayınız.",
+                                    "link": {
+                                        "url": "https://maps.app.goo.gl/HQ6rkDqY6yPTN35q7",
+                                        "is_external": "",
+                                        "nofollow": "",
+                                        "custom_attributes": ""
+                                    },
+                                    "selected_icon": {
+                                        "value": "fas fa-map-marker-alt",
+                                        "library": "fa-solid"
+                                    },
+                                    "_background_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    }
+                                },
+                                "elements": [],
+                                "widgetType": "icon-list"
+                            }
+                        ],
+                        "isInner": true
+                    },
+                    {
+                        "id": "3c46acb",
+                        "elType": "container",
+                        "settings": {
+                            "_column_size": "33",
+                            "width": {
+                                "unit": "px",
+                                "size": 209
+                            },
+                            "flex_justify_content": "flex-end",
+                            "padding": {
+                                "unit": "px",
+                                "top": "0",
+                                "right": "0",
+                                "bottom": "0",
+                                "left": "0",
+                                "isLinked": "1"
+                            },
+                            "padding_tablet": {
+                                "unit": "px",
+                                "top": "",
+                                "right": "",
+                                "bottom": "",
+                                "left": "",
+                                "isLinked": "1"
+                            },
+                            "width_tablet": {
+                                "size": 28,
+                                "unit": "%"
+                            },
+                            "width_mobile": {
+                                "size": 100,
+                                "unit": "%"
+                            },
+                            "content_width": "full",
+                            "flex_direction": "row",
+                            "flex_direction_mobile": "row-reverse",
+                            "flex_justify_content_mobile": "space-between",
+                            "flex_align_items": "center",
+                            "_flex_size": "none",
+                            "_element_width": "initial"
+                        },
+                        "elements": [
+                            {
+                                "id": "b9d4a37",
+                                "elType": "widget",
+                                "settings": {
+                                    "skin": "full_screen",
+                                    "placeholder": "",
+                                    "button_text": "Search",
+                                    "size": {
+                                        "unit": "px",
+                                        "size": "34",
+                                        "sizes": []
+                                    },
+                                    "toggle_align": "right",
+                                    "toggle_size": {
+                                        "unit": "px",
+                                        "size": "31",
+                                        "sizes": []
+                                    },
+                                    "icon_size_minimal": {
+                                        "unit": "px",
+                                        "size": "18",
+                                        "sizes": []
+                                    },
+                                    "overlay_background_color": "rgba(22,22,63,0.9)",
+                                    "input_typography_typography": "custom",
+                                    "input_typography_font_family": "Montserrat",
+                                    "input_typography_font_size": {
+                                        "unit": "px",
+                                        "size": "40",
+                                        "sizes": []
+                                    },
+                                    "input_typography_font_weight": "300",
+                                    "input_text_color": "#ffffff",
+                                    "input_background_color": "rgba(255,255,255,0)",
+                                    "input_border_color": "rgba(255,255,255,0.5)",
+                                    "border_radius": {
+                                        "unit": "px",
+                                        "size": "0",
+                                        "sizes": []
+                                    },
+                                    "toggle_color": "#ffffff",
+                                    "toggle_color_hover": "#d3b574",
+                                    "toggle_icon_size": {
+                                        "unit": "px",
+                                        "size": "50",
+                                        "sizes": []
+                                    },
+                                    "_background_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    }
+                                },
+                                "elements": [],
+                                "widgetType": "search-form"
+                            },
+                            {
+                                "id": "4e60265",
+                                "elType": "widget",
+                                "settings": {
+                                    "view": "inline",
+                                    "icon_list": [
+                                        {
+                                            "text": "",
+                                            "icon": "fa fa-twitter",
+                                            "_id": "6fb0b8f",
+                                            "selected_icon": {
+                                                "value": "fab fa-youtube",
+                                                "library": "fa-brands"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "https://www.youtube.com/channel/UCoU8bAxh8FInLBYwz6Ljo9A",
+                                                "is_external": "on",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        },
+                                        {
+                                            "text": "",
+                                            "icon": "fa fa-linkedin",
+                                            "_id": "c22772a",
+                                            "selected_icon": {
+                                                "value": "fab fa-linkedin-in",
+                                                "library": "fa-brands"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "https://www.linkedin.com/in/h%C3%BCsn%C3%BC-s%C3%BCsl%C3%BC-6804a618b/?originalSubdomain=tr",
+                                                "is_external": "on",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        },
+                                        {
+                                            "text": "",
+                                            "icon": "fa fa-facebook-f",
+                                            "_id": "d730051",
+                                            "selected_icon": {
+                                                "value": "fab fa-facebook-f",
+                                                "library": "fa-brands"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "https://www.facebook.com/DrHusnuSuslu",
+                                                "is_external": "on",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        },
+                                        {
+                                            "text": "",
+                                            "icon": "fa fa-facebook-f",
+                                            "selected_icon": {
+                                                "value": "fab fa-instagram",
+                                                "library": "fa-brands"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "_id": "fc3fe14",
+                                            "link": {
+                                                "url": "https://www.instagram.com/husnususlu/",
+                                                "is_external": "on",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        }
+                                    ],
+                                    "space_between": {
+                                        "unit": "px",
+                                        "size": "15",
+                                        "sizes": []
+                                    },
+                                    "icon_align": "right",
+                                    "icon_color": "#ffffff",
+                                    "icon_size": {
+                                        "unit": "px",
+                                        "size": "18",
+                                        "sizes": []
+                                    },
+                                    "icon_align_mobile": "left",
+                                    "icon_color_hover": "#d3b574",
+                                    "icon_self_align": "center",
+                                    "selected_icon": {
+                                        "value": "fab fa-instagram",
+                                        "library": "fa-brands"
+                                    },
+                                    "_background_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    }
+                                },
+                                "elements": [],
+                                "widgetType": "icon-list"
+                            }
+                        ],
+                        "isInner": true
+                    }
+                ],
+                "isInner": true
+            },
+            {
+                "id": "cad6fb6",
+                "elType": "container",
+                "settings": {
+                    "width": {
+                        "unit": "px",
+                        "size": 1600,
+                        "sizes": []
+                    },
+                    "structure": "30",
+                    "background_background": "classic",
+                    "background_color": "#ffffff",
+                    "margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": "1"
+                    },
+                    "padding": {
+                        "unit": "px",
+                        "top": "15",
+                        "right": "12",
+                        "bottom": "15",
+                        "left": "12",
+                        "isLinked": ""
+                    },
+                    "padding_tablet": {
+                        "unit": "px",
+                        "top": "20",
+                        "right": "15",
+                        "bottom": "20",
+                        "left": "15",
+                        "isLinked": ""
+                    },
+                    "flex_direction": "row",
+                    "flex_align_items": "center",
+                    "flex_gap": {
+                        "size": 10,
+                        "unit": "px",
+                        "column": "10",
+                        "row": "10",
+                        "isLinked": true
+                    },
+                    "boxed_width": {
+                        "unit": "px",
+                        "size": 1200,
+                        "sizes": []
+                    },
+                    "flex_justify_content": "space-between",
+                    "content_width": "full",
+                    "flex_direction_mobile": "row",
+                    "flex_justify_content_mobile": "space-evenly"
+                },
+                "elements": [
+                    {
+                        "id": "3d2fee8",
+                        "elType": "widget",
+                        "settings": {
+                            "__dynamic__": {
+                                "image": "[elementor-tag id=\"\" name=\"site-logo\" settings=\"%7B%7D\"]"
+                            },
+                            "image_size": "medium",
+                            "width": {
+                                "unit": "%",
+                                "size": 81,
+                                "sizes": []
+                            },
+                            "_element_width": "initial",
+                            "_element_custom_width": {
+                                "unit": "%",
+                                "size": 14.721
+                            },
+                            "_element_custom_width_mobile": {
+                                "unit": "px",
+                                "size": 205
+                            },
+                            "_flex_size": "none",
+                            "_background_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "width_mobile": {
+                                "unit": "%",
+                                "size": 100,
+                                "sizes": []
+                            },
+                            "space_mobile": {
+                                "unit": "%",
+                                "size": 100,
+                                "sizes": []
+                            },
+                            "height_mobile": {
+                                "unit": "px",
+                                "size": 44,
+                                "sizes": []
+                            },
+                            "_element_width_mobile": "initial"
+                        },
+                        "elements": [],
+                        "widgetType": "theme-site-logo"
+                    },
+                    {
+                        "id": "83ecc2d",
+                        "elType": "widget",
+                        "settings": {
+                            "text": "Randevu Al",
+                            "link": {
+                                "url": "https://wa.me/905301718860",
+                                "is_external": "",
+                                "nofollow": "",
+                                "custom_attributes": ""
+                            },
+                            "background_color": "#248215"
+                        },
+                        "elements": [],
+                        "widgetType": "button"
+                    },
+                    {
+                        "id": "1b34562",
+                        "elType": "widget",
+                        "settings": {
+                            "align_items": "start",
+                            "menu_typography_typography": "custom",
+                            "menu_typography_font_family": "Montserrat",
+                            "menu_typography_font_size": {
+                                "unit": "px",
+                                "size": 13,
+                                "sizes": []
+                            },
+                            "menu_typography_font_weight": "400",
+                            "color_menu_item": "#16163f",
+                            "color_menu_item_hover": "#d3b574",
+                            "pointer_width": {
+                                "unit": "px",
+                                "size": "0",
+                                "sizes": []
+                            },
+                            "padding_horizontal_menu_item": {
+                                "unit": "px",
+                                "size": "0",
+                                "sizes": []
+                            },
+                            "menu_space_between": {
+                                "unit": "px",
+                                "size": "50",
+                                "sizes": []
+                            },
+                            "color_dropdown_item": "#16163f",
+                            "color_dropdown_item_hover": "#d3b574",
+                            "background_color_dropdown_item_hover": "rgba(0,0,0,0)",
+                            "color_dropdown_item_active": "#d3b574",
+                            "background_color_dropdown_item_active": "rgba(0,0,0,0)",
+                            "dropdown_typography_typography": "custom",
+                            "dropdown_typography_font_family": "Montserrat",
+                            "dropdown_typography_font_size": {
+                                "unit": "px",
+                                "size": "16",
+                                "sizes": []
+                            },
+                            "dropdown_typography_font_weight": "400",
+                            "dropdown_box_shadow_box_shadow_type": "yes",
+                            "dropdown_box_shadow_box_shadow": {
+                                "horizontal": "0",
+                                "vertical": "15",
+                                "blur": "20",
+                                "spread": "0",
+                                "color": "rgba(0,0,0,0.1)"
+                            },
+                            "padding_horizontal_dropdown_item": {
+                                "unit": "px",
+                                "size": "10",
+                                "sizes": []
+                            },
+                            "padding_vertical_dropdown_item": {
+                                "unit": "px",
+                                "size": "20",
+                                "sizes": []
+                            },
+                            "dropdown_top_distance": {
+                                "unit": "px",
+                                "size": "15",
+                                "sizes": []
+                            },
+                            "menu_typography_text_transform": "capitalize",
+                            "full_width": "stretch",
+                            "text_align": "center",
+                            "toggle_align": "right",
+                            "dropdown_typography_font_size_mobile": {
+                                "unit": "px",
+                                "size": "16",
+                                "sizes": []
+                            },
+                            "padding_vertical_dropdown_item_mobile": {
+                                "unit": "px",
+                                "size": "24",
+                                "sizes": []
+                            },
+                            "dropdown_top_distance_tablet": {
+                                "unit": "px",
+                                "size": "20",
+                                "sizes": []
+                            },
+                            "dropdown_top_distance_mobile": {
+                                "unit": "px",
+                                "size": "20",
+                                "sizes": []
+                            },
+                            "toggle_color": "#16163f",
+                            "toggle_background_color": "#ffffff",
+                            "menu": "ana-menu",
+                            "_element_width": "initial",
+                            "_element_custom_width": {
+                                "unit": "%",
+                                "size": 65.022
+                            },
+                            "_flex_size": "none",
+                            "menu_name": "Menü",
+                            "_background_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_element_width_mobile": "initial",
+                            "_element_custom_width_mobile": {
+                                "unit": "px",
+                                "size": 338.812
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "nav-menu"
+                    },
+                    {
+                        "id": "50a4f11",
+                        "elType": "widget",
+                        "settings": {
+                            "text": "Randevu",
+                            "align": "right",
+                            "icon": "fa fa-long-arrow-right",
+                            "icon_align": "right",
+                            "icon_indent": {
+                                "unit": "px",
+                                "size": "10",
+                                "sizes": []
+                            },
+                            "typography_typography": "custom",
+                            "typography_font_family": "Montserrat",
+                            "typography_font_size": {
+                                "unit": "px",
+                                "size": "16",
+                                "sizes": []
+                            },
+                            "typography_font_weight": "400",
+                            "button_text_color": "#FAFAFA",
+                            "background_color": "#0F2383",
+                            "border_radius": {
+                                "unit": "px",
+                                "top": "0",
+                                "right": "0",
+                                "bottom": "0",
+                                "left": "0",
+                                "isLinked": "1"
+                            },
+                            "hover_color": "#0F2383",
+                            "button_background_hover_color": "#FAFAFA",
+                            "size": "md",
+                            "text_padding_mobile": {
+                                "unit": "px",
+                                "top": "15",
+                                "right": "20",
+                                "bottom": "15",
+                                "left": "20",
+                                "isLinked": ""
+                            },
+                            "typography_text_transform": "capitalize",
+                            "selected_icon": {
+                                "value": "fas fa-long-arrow-alt-right",
+                                "library": "fa-solid"
+                            },
+                            "__fa4_migrated": {
+                                "selected_icon": "1"
+                            },
+                            "__dynamic__": {
+                                "link": "[elementor-tag id=\"1a05bf9\" name=\"popup\" settings=\"%7B%22popup%22%3A%2244%22%7D\"]"
+                            },
+                            "hide_mobile": "hidden-phone",
+                            "typography_font_size_mobile": {
+                                "unit": "px",
+                                "size": 13,
+                                "sizes": []
+                            },
+                            "_background_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "button"
+                    }
+                ],
+                "isInner": true
+            }
+        ],
+        "isInner": false
+    },
+    {
+        "id": "f71a3a3",
+        "elType": "container",
+        "settings": {
+            "flex_direction": "column"
+        },
+        "elements": [
+            {
+                "id": "c3d3730",
+                "elType": "widget",
+                "settings": {
+                    "html": "<section class=\"hs-medical-article\">\r\n  <style>\r\n    .hs-medical-article{\r\n      --bg:#f6f8fb;\r\n      --card:#ffffff;\r\n      --text:#1f2937;\r\n      --muted:#6b7280;\r\n      --line:#e5e7eb;\r\n      --primary:#0f766e;\r\n      --primary-dark:#115e59;\r\n      --soft:#ecfdf5;\r\n      --accent:#0b1324;\r\n      --warn-bg:#fff7ed;\r\n      --warn-line:#fed7aa;\r\n      --shadow:0 10px 30px rgba(15,23,42,.06);\r\n      max-width:900px;\r\n      margin:0 auto;\r\n      padding:24px 16px 40px;\r\n      font-family:Arial, Helvetica, sans-serif;\r\n      color:var(--text);\r\n      line-height:1.75;\r\n    }\r\n    .hs-medical-article *{box-sizing:border-box;}\r\n    .hs-box{\r\n      background:var(--card);\r\n      border:1px solid var(--line);\r\n      border-radius:22px;\r\n      box-shadow:var(--shadow);\r\n      overflow:hidden;\r\n    }\r\n    .hs-hero{\r\n      background:linear-gradient(135deg,#0b1324 0%, #123b49 100%);\r\n      color:#fff;\r\n      padding:28px 22px;\r\n    }\r\n    .hs-badge{\r\n      display:inline-block;\r\n      padding:7px 12px;\r\n      background:rgba(255,255,255,.12);\r\n      border:1px solid rgba(255,255,255,.18);\r\n      border-radius:999px;\r\n      font-size:12px;\r\n      font-weight:700;\r\n      margin-bottom:14px;\r\n    }\r\n    .hs-hero h1{\r\n      margin:0 0 12px;\r\n      font-size:34px;\r\n      line-height:1.2;\r\n      letter-spacing:-0.02em;\r\n    }\r\n    .hs-hero p{\r\n      margin:0;\r\n      font-size:17px;\r\n      color:rgba(255,255,255,.9);\r\n    }\r\n    .hs-content{\r\n      padding:24px 22px 28px;\r\n      background:var(--bg);\r\n    }\r\n    .hs-meta{\r\n      display:flex;\r\n      flex-wrap:wrap;\r\n      gap:8px;\r\n      margin-bottom:18px;\r\n    }\r\n    .hs-pill{\r\n      display:inline-block;\r\n      padding:7px 11px;\r\n      border-radius:999px;\r\n      background:#eef2ff;\r\n      color:#3730a3;\r\n      font-size:12px;\r\n      font-weight:700;\r\n    }\r\n    .hs-answer{\r\n      background:linear-gradient(180deg,#ecfdf5 0%, #ffffff 100%);\r\n      border:1px solid #bbf7d0;\r\n      border-radius:18px;\r\n      padding:20px;\r\n      margin-bottom:18px;\r\n    }\r\n    .hs-answer h2{\r\n      margin:0 0 10px;\r\n      font-size:21px;\r\n      line-height:1.3;\r\n      color:var(--primary-dark);\r\n    }\r\n    .hs-answer p{\r\n      margin:0;\r\n      font-size:16px;\r\n    }\r\n    .hs-card{\r\n      background:#fff;\r\n      border:1px solid var(--line);\r\n      border-radius:18px;\r\n      padding:20px;\r\n      margin-bottom:16px;\r\n      box-shadow:var(--shadow);\r\n    }\r\n    .hs-card h2{\r\n      margin:0 0 12px;\r\n      font-size:26px;\r\n      line-height:1.25;\r\n      color:var(--accent);\r\n      letter-spacing:-0.02em;\r\n    }\r\n    .hs-card h3{\r\n      margin:22px 0 10px;\r\n      font-size:20px;\r\n      line-height:1.35;\r\n      color:var(--accent);\r\n    }\r\n    .hs-card p{\r\n      margin:0 0 14px;\r\n      font-size:16px;\r\n    }\r\n    .hs-card p:last-child{margin-bottom:0;}\r\n    .hs-list{\r\n      margin:0;\r\n      padding-left:20px;\r\n    }\r\n    .hs-list li{\r\n      margin-bottom:8px;\r\n    }\r\n    .hs-highlight{\r\n      background:#f8fafc;\r\n      border-left:4px solid var(--primary);\r\n      padding:14px 14px 14px 16px;\r\n      border-radius:12px;\r\n      margin:14px 0;\r\n    }\r\n    .hs-warning{\r\n      background:var(--warn-bg);\r\n      border:1px solid var(--warn-line);\r\n      border-radius:16px;\r\n      padding:18px;\r\n    }\r\n    .hs-warning h3{\r\n      margin-top:0;\r\n      color:#9a3412;\r\n    }\r\n    .hs-faq{\r\n      display:grid;\r\n      gap:12px;\r\n    }\r\n    .hs-faq-item{\r\n      background:#fff;\r\n      border:1px solid var(--line);\r\n      border-radius:16px;\r\n      padding:16px 16px 14px;\r\n    }\r\n    .hs-faq-item h3{\r\n      margin:0 0 8px;\r\n      font-size:18px;\r\n      color:var(--accent);\r\n    }\r\n    .hs-faq-item p{\r\n      margin:0;\r\n      color:var(--text);\r\n    }\r\n    .hs-author{\r\n      display:grid;\r\n      grid-template-columns:1fr;\r\n      gap:10px;\r\n      background:linear-gradient(180deg,#ffffff 0%, #f8fafc 100%);\r\n      border:1px solid var(--line);\r\n      border-radius:18px;\r\n      padding:20px;\r\n    }\r\n    .hs-author h3{\r\n      margin:0;\r\n      font-size:20px;\r\n    }\r\n    .hs-author p{\r\n      margin:0;\r\n    }\r\n    .hs-links{\r\n      display:flex;\r\n      flex-wrap:wrap;\r\n      gap:10px;\r\n      margin-top:10px;\r\n    }\r\n    .hs-link{\r\n      display:inline-block;\r\n      padding:10px 14px;\r\n      border-radius:12px;\r\n      background:#fff;\r\n      border:1px solid var(--line);\r\n      color:var(--accent);\r\n      text-decoration:none;\r\n      font-weight:700;\r\n      font-size:14px;\r\n    }\r\n    .hs-link:hover{\r\n      background:#f8fafc;\r\n    }\r\n    .hs-table-wrap{\r\n      overflow-x:auto;\r\n      margin-top:12px;\r\n    }\r\n    .hs-table{\r\n      width:100%;\r\n      border-collapse:collapse;\r\n      font-size:15px;\r\n      background:#fff;\r\n      border:1px solid var(--line);\r\n      border-radius:14px;\r\n      overflow:hidden;\r\n    }\r\n    .hs-table th,\r\n    .hs-table td{\r\n      border-bottom:1px solid var(--line);\r\n      padding:12px 14px;\r\n      text-align:left;\r\n      vertical-align:top;\r\n    }\r\n    .hs-table th{\r\n      background:#f8fafc;\r\n      color:var(--accent);\r\n      font-weight:700;\r\n    }\r\n    .hs-table tr:last-child td{\r\n      border-bottom:none;\r\n    }\r\n    @media (max-width:640px){\r\n      .hs-medical-article{padding:14px 10px 28px;}\r\n      .hs-hero{padding:22px 16px;}\r\n      .hs-hero h1{font-size:28px;}\r\n      .hs-hero p{font-size:15px;}\r\n      .hs-content{padding:16px;}\r\n      .hs-card{padding:16px;}\r\n      .hs-card h2{font-size:23px;}\r\n      .hs-card h3{font-size:18px;}\r\n      .hs-answer h2{font-size:19px;}\r\n      .hs-table th,\r\n      .hs-table td{padding:10px 12px;}\r\n    }\r\n  </style>\r\n\r\n  <article class=\"hs-box\">\r\n    <header class=\"hs-hero\">\r\n      <span class=\"hs-badge\">Boyun Fıtığı • Uzman Seçimi • Ağrı Tedavisi</span>\r\n      <h1>Boyun Fıtığı İçin Hangi Doktora Gidilir?</h1>\r\n      <p>Boyun fıtığı şüphesinde doğru branşa başvurmak tedavi sürecini hızlandırır. Ağrı, uyuşma, kola vuran şikayetler ve sinir basısı belirtilerinde algoloji uzmanı, beyin ve sinir cerrahisi, fizik tedavi ve nöroloji farklı aşamalarda değerlendirme yapabilir.</p>\r\n    </header>\r\n\r\n    <div class=\"hs-content\">\r\n      <div class=\"hs-meta\">\r\n        <span class=\"hs-pill\">Boyun Fıtığı</span>\r\n        <span class=\"hs-pill\">Boyun Fıtığı hangi doktora gidilir</span>\r\n     \r\n      </div>\r\n\r\n      <section class=\"hs-answer\">\r\n        <h2>Kısa Cevap</h2>\r\n        <p><strong>Boyun fıtığı için gidilecek doktor hastanın şikayetine göre değişir.</strong> Boyundan kola yayılan ağrı, uyuşma, yanma ve sinir basısına bağlı şikayetlerde <strong>algoloji uzmanı</strong> önemli bir değerlendirme yapabilir. Cerrahi şüphe varsa beyin ve sinir cerrahisi, hareket kısıtlılığı ve kas problemleri ön plandaysa fizik tedavi, nörolojik bulgular belirginsa nöroloji de sürece dahil olabilir.</p>\r\n      </section>\r\n\r\n      <section class=\"hs-card\">\r\n        <h2>Boyun Fıtığında İlk Olarak Hangi Bölüme Gidilir?</h2>\r\n        <p>Boyun fıtığı şüphesinde birçok kişi hangi doktora başvuracağını bilemez. Bu noktada şikayetin tipi yol gösterir. Boyundan omza, kola ve ele yayılan ağrı varsa; uyuşma, karıncalanma veya sinir sıkışması düşünülüyorsa ilk değerlendirmeyi ilgili uzmanlık alanı yapmalıdır.</p>\r\n\r\n        <div class=\"hs-highlight\">\r\n          Boyun fıtığında özellikle kola vuran ağrı, uyuşma, yanma ve sinir basısı hissi ön plandaysa algoloji uzmanı önemli bir seçenek haline gelir.\r\n        </div>\r\n\r\n        <p>Algoloji uzmanı ağrının kaynağını değerlendirir, sinir basısı ile ilişkili şikayetleri analiz eder ve uygun hastalarda girişimsel ağrı tedavilerini planlayabilir. Bu nedenle ameliyatsız tedavi seçeneklerini araştıran hastalar için algoloji önemli bir branştır.</p>\r\n      </section>\r\n\r\n      <section class=\"hs-card\">\r\n        <h2>Boyun Fıtığı İçin Algoloji Uzmanına Ne Zaman Gidilir?</h2>\r\n        <p>Boyun fıtığı olan hastalar çoğu zaman geçmeyen ağrı nedeniyle günlük yaşamda zorlanır. Ağrı boyunda başlayıp omza, kola veya ele yayılabilir. Bazı kişilerde buna uyuşma, karıncalanma ve yanma hissi eşlik eder. Bu tür şikayetlerde algoloji uzmanı ayrıntılı değerlendirme yapabilir.</p>\r\n\r\n        <h3>Algoloji Uzmanına Başvurmayı Düşündüren Durumlar</h3>\r\n        <ul class=\"hs-list\">\r\n          <li>Boyundan kola vuran ağrının uzun sürmesi</li>\r\n          <li>İlaç ve istirahate rağmen ağrının devam etmesi</li>\r\n          <li>Kolda uyuşma veya karıncalanma hissi olması</li>\r\n          <li>Sinir basısına bağlı yanma ve elektriklenme tarif edilmesi</li>\r\n          <li>Ameliyatsız tedavi seçeneklerinin araştırılması</li>\r\n          <li>Girişimsel ağrı tedavileri hakkında görüş almak istenmesi</li>\r\n        </ul>\r\n\r\n        <p>Algoloji uzmanı ağrının mekanizmasını değerlendirir ve hastaya uygun yaklaşımı planlar. Uygun olgularda ilaç düzenlemesi, görüntüleme eşliğinde girişimsel işlemler ve multidisipliner takip gündeme gelebilir.</p>\r\n      </section>\r\n\r\n      <section class=\"hs-card\">\r\n        <h2>Boyun Fıtığı İçin Beyin ve Sinir Cerrahisine Ne Zaman Gidilir?</h2>\r\n        <p>Beyin ve sinir cerrahisi, boyun fıtığında cerrahi gerekliliğin değerlendirilmesi açısından önem taşır. Her boyun fıtığı ameliyat gerektirmez. Ancak bazı bulgular cerrahi değerlendirmeyi öne çıkarır.</p>\r\n\r\n        <h3>Bu Durumlarda Beyin ve Sinir Cerrahisi Değerlendirmesi Gerekebilir</h3>\r\n        <ul class=\"hs-list\">\r\n          <li>Kolda veya elde belirgin güç kaybı olması</li>\r\n          <li>İleri düzey sinir basısı düşünülmesi</li>\r\n          <li>Şikayetlerin hızla kötüleşmesi</li>\r\n          <li>Günlük yaşamı ciddi şekilde bozan ağrı bulunması</li>\r\n          <li>Muayene ve görüntülemede cerrahi gerektiren tablo saptanması</li>\r\n        </ul>\r\n\r\n        <p>Cerrahi kararını yalnızca MR sonucu belirlemez. Doktor, muayene bulgularını, hastanın şikayetlerini ve nörolojik durumu birlikte değerlendirir.</p>\r\n      </section>\r\n\r\n      <section class=\"hs-card\">\r\n        <h2>Boyun Fıtığında Fizik Tedavi Uzmanına Gidilir mi?</h2>\r\n        <p>Evet, gidilebilir. Boyun kaslarında sertlik, hareket kısıtlılığı, duruş bozukluğu ve kas spazmı ön plandaysa fizik tedavi ve rehabilitasyon uzmanı değerlendirme yapabilir. Özellikle boyun fıtığına kas gerginliği de eşlik ediyorsa bu branş önemli katkı sağlar.</p>\r\n\r\n        <p>Fizik tedavi uzmanı hastanın hareket durumunu inceler, boyun çevresi kaslarını değerlendirir ve uygun hastalarda egzersiz, rehabilitasyon ve destekleyici tedavi planı oluşturur.</p>\r\n      </section>\r\n\r\n      <section class=\"hs-card\">\r\n        <h2>Boyun Fıtığı İçin Nörolojiye Gitmek Gerekir mi?</h2>\r\n        <p>Bazı hastalarda nöroloji değerlendirmesi de gerekebilir. Özellikle uyuşma, his kaybı, refleks değişikliği veya sinir iletimini ilgilendiren belirtiler ön plandaysa nöroloji uzmanı devreye girebilir. Koldaki şikayetlerin gerçekten boyun fıtığından mı, yoksa başka bir sinir probleminden mi kaynaklandığını ayırt etmek için nörolojik değerlendirme önemli olabilir.</p>\r\n      </section>\r\n\r\n      <section class=\"hs-card\">\r\n        <h2>Boyun Fıtığında Hangi Doktor Daha Uygundur?</h2>\r\n        <p>Bu sorunun tek bir cevabı yoktur. En uygun branş, hastanın yakınmasına göre değişir. Ancak ağrı ön plandaysa ve hasta ameliyatsız seçenekleri öğrenmek istiyorsa algoloji uzmanı önemli bir başvuru noktasıdır.</p>\r\n\r\n        <div class=\"hs-table-wrap\">\r\n          <table class=\"hs-table\">\r\n            <thead>\r\n              <tr>\r\n                <th>Şikayet / Durum</th>\r\n                <th>Daha Uygun Branş</th>\r\n              </tr>\r\n            </thead>\r\n            <tbody>\r\n              <tr>\r\n                <td>Boyundan kola yayılan ağrı, yanma, sinir basısı hissi</td>\r\n                <td>Algoloji uzmanı</td>\r\n              </tr>\r\n              <tr>\r\n                <td>Kolda belirgin güç kaybı, ileri sinir basısı şüphesi</td>\r\n                <td>Beyin ve sinir cerrahisi</td>\r\n              </tr>\r\n              <tr>\r\n                <td>Kas spazmı, duruş bozukluğu, hareket kısıtlılığı</td>\r\n                <td>Fizik tedavi ve rehabilitasyon</td>\r\n              </tr>\r\n              <tr>\r\n                <td>Uyuşma, refleks değişikliği, sinir iletim sorusu</td>\r\n                <td>Nöroloji</td>\r\n              </tr>\r\n            </tbody>\r\n          </table>\r\n        </div>\r\n\r\n        <p>Birçok hastada bu branşlar birbirini tamamlar. Yani tek bir bölüm yerine bazen multidisipliner yaklaşım gerekebilir.</p>\r\n      </section>\r\n\r\n      <section class=\"hs-card\">\r\n        <h2>Boyun Fıtığı Belirtileri Nelerdir?</h2>\r\n        <p>Boyun fıtığında görülen belirtiler fıtığın yerine ve sinir basısının derecesine göre değişir. En sık yakınmalar şunlardır:</p>\r\n        <ul class=\"hs-list\">\r\n          <li>Boyun ağrısı</li>\r\n          <li>Omza vuran ağrı</li>\r\n          <li>Kola yayılan ağrı</li>\r\n          <li>Elde veya parmaklarda uyuşma</li>\r\n          <li>Karıncalanma ve yanma hissi</li>\r\n          <li>Kol gücünde azalma</li>\r\n          <li>Boyun hareketlerinde kısıtlılık</li>\r\n        </ul>\r\n\r\n        <p>Bu belirtiler uzun sürerse veya giderek artarsa doğru branşa başvurmak gerekir. Erken değerlendirme tedavi planını kolaylaştırır.</p>\r\n      </section>\r\n\r\n      <section class=\"hs-card\">\r\n        <h2>Ne Zaman Acil Değerlendirme Gerekir?</h2>\r\n        <div class=\"hs-warning\">\r\n          <h3>Dikkat Gerektiren Durumlar</h3>\r\n          <ul class=\"hs-list\">\r\n            <li>Kolda veya elde belirgin güç kaybı gelişmesi</li>\r\n            <li>Nesneleri tutmakta zorlanma</li>\r\n            <li>Şikayetlerin kısa sürede hızla artması</li>\r\n            <li>Denge bozukluğu oluşması</li>\r\n            <li>İleri düzey uyuşma ve his kaybı yaşanması</li>\r\n          </ul>\r\n        </div>\r\n\r\n        <p style=\"margin-top:14px;\">Bu tür belirtiler varsa değerlendirmeyi geciktirmemek gerekir. Erken muayene sinir basısının ilerlemesini önlemek açısından önem taşır.</p>\r\n      </section>\r\n\r\n      <section class=\"hs-card\">\r\n        <h2>Boyun Fıtığında Ameliyatsız Tedavi İçin Hangi Doktora Gidilir?</h2>\r\n        <p>Boyun fıtığında ameliyatsız tedavi seçeneklerini araştıran hastalar çoğu zaman algoloji uzmanına başvurur. Çünkü algoloji, ağrının kaynağını değerlendirir ve uygun hastalarda girişimsel ağrı tedavileri dahil birçok yaklaşımı planlayabilir. Özellikle ameliyat dışı yöntemleri öğrenmek isteyen hastalar için bu branş öne çıkar.</p>\r\n\r\n        <div class=\"hs-highlight\">\r\n          Boyun fıtığında ağrı baskınsa ve hasta ameliyatsız seçenekleri değerlendirmek istiyorsa algoloji uzmanı güçlü bir başvuru noktasıdır.\r\n        </div>\r\n      </section>\r\n\r\n      <section class=\"hs-card\">\r\n        <h2>Sık Sorulan Sorular</h2>\r\n        <div class=\"hs-faq\">\r\n\r\n          <div class=\"hs-faq-item\">\r\n            <h3>Boyun fıtığı için hangi doktora gidilir?</h3>\r\n            <p>Şikayetin tipine göre farklı branşlara başvurulabilir. Ağrı ve sinir basısı belirtileri ön plandaysa algoloji uzmanı önemli bir seçenektir.</p>\r\n          </div>\r\n\r\n          <div class=\"hs-faq-item\">\r\n            <h3>Boyun fıtığı için algoloji uzmanına gidilir mi?</h3>\r\n            <p>Evet. Boyundan kola yayılan ağrı, yanma, uyuşma ve ameliyatsız tedavi arayışında algoloji uzmanı değerlendirme yapabilir.</p>\r\n          </div>\r\n\r\n          <div class=\"hs-faq-item\">\r\n            <h3>Boyun fıtığı için beyin cerrahisine ne zaman gidilir?</h3>\r\n            <p>Kolda belirgin güç kaybı, ileri sinir basısı şüphesi veya cerrahi gerektiren bulgular varsa beyin ve sinir cerrahisi değerlendirmesi gerekir.</p>\r\n          </div>\r\n\r\n          <div class=\"hs-faq-item\">\r\n            <h3>Boyun fıtığı fizik tedavi ile ilgilenir mi?</h3>\r\n            <p>Evet. Boyun kaslarında sertlik, hareket kısıtlılığı ve duruş bozukluğu varsa fizik tedavi uzmanı uygun değerlendirme yapabilir.</p>\r\n          </div>\r\n\r\n          <div class=\"hs-faq-item\">\r\n            <h3>Boyun fıtığı için nörolojiye gidilir mi?</h3>\r\n            <p>Uyuşma, his kaybı ve sinir iletimini ilgilendiren belirtiler varsa nöroloji değerlendirmesi faydalı olabilir.</p>\r\n          </div>\r\n\r\n        </div>\r\n      </section>\r\n\r\n      <section class=\"hs-card\">\r\n        <h2>İlgili Konular</h2>\r\n        <div class=\"hs-links\">\r\n          <a class=\"hs-link\" href=\"https://husnususlu.test/ameliyatsiz-fitik-tedavisi//\">Boyun Fıtığı Belirtileri</a>\r\n          <a class=\"hs-link\" href=\"https://husnususlu.test/ameliyatsiz-lazerle-bel-fitigi-tedavisi/\">Lazerle Bel Fıtığı Tedavisi</a>\r\n        </div>\r\n      </section>\r\n\r\n      <section class=\"hs-author\">\r\n        <h3>Tıbbi Olarak Değerlendiren</h3>\r\n        <p><strong>Prof. Dr. Hüsnü Süslü</strong></p>\r\n        <p>Prof. Dr. Hüsnü Süslü algoloji alanında çalışır. Boyun fıtığına bağlı ağrılar, sinir basısı şikayetleri ve girişimsel ağrı tedavileri üzerine yoğunlaşır.</p>\r\n        <div class=\"hs-links\">\r\n          <a class=\"hs-link\" href=\"/hakkimda/\">Hakkımda</a>\r\n          <a class=\"hs-link\" href=\"/akademik-yayinlar/\">Akademik Yayınlar</a>\r\n          <a class=\"hs-link\" href=\"/iletisim/\">İletişim</a>\r\n        </div>\r\n      </section>\r\n    </div>\r\n  </article>\r\n\r\n  <script type=\"application/ld+json\">\r\n  {\r\n    \"@context\":\"https://schema.org\",\r\n    \"@type\":\"MedicalWebPage\",\r\n    \"headline\":\"Boyun Fıtığı İçin Hangi Doktora Gidilir?\",\r\n    \"description\":\"Boyun fıtığı için hangi doktora gidilir? Algoloji uzmanı, beyin ve sinir cerrahisi, fizik tedavi ve nöroloji hangi durumlarda tercih edilir öğrenin.\",\r\n    \"about\":{\r\n      \"@type\":\"MedicalCondition\",\r\n      \"name\":\"Boyun fıtığı\"\r\n    },\r\n    \"author\":{\r\n      \"@type\":\"Person\",\r\n      \"name\":\"Prof. Dr. Hüsnü Süslü\"\r\n    },\r\n    \"reviewedBy\":{\r\n      \"@type\":\"Person\",\r\n      \"name\":\"Prof. Dr. Hüsnü Süslü\"\r\n    },\r\n    \"publisher\":{\r\n      \"@type\":\"Organization\",\r\n      \"name\":\"husnususlu.com\"\r\n    },\r\n    \"mainEntityOfPage\":\"https://husnususlu.test/boyun-fitigi-icin-hangi-doktora-gidilir/\"\r\n  }\r\n  </script>\r\n\r\n  <script type=\"application/ld+json\">\r\n  {\r\n    \"@context\":\"https://schema.org\",\r\n    \"@type\":\"FAQPage\",\r\n    \"mainEntity\":[\r\n      {\r\n        \"@type\":\"Question\",\r\n        \"name\":\"Boyun fıtığı için hangi doktora gidilir?\",\r\n        \"acceptedAnswer\":{\r\n          \"@type\":\"Answer\",\r\n          \"text\":\"Şikayetin tipine göre farklı branşlara başvurulabilir. Ağrı ve sinir basısı belirtileri ön plandaysa algoloji uzmanı önemli bir seçenektir.\"\r\n        }\r\n      },\r\n      {\r\n        \"@type\":\"Question\",\r\n        \"name\":\"Boyun fıtığı için algoloji uzmanına gidilir mi?\",\r\n        \"acceptedAnswer\":{\r\n          \"@type\":\"Answer\",\r\n          \"text\":\"Evet. Boyundan kola yayılan ağrı, yanma, uyuşma ve ameliyatsız tedavi arayışında algoloji uzmanı değerlendirme yapabilir.\"\r\n        }\r\n      },\r\n      {\r\n        \"@type\":\"Question\",\r\n        \"name\":\"Boyun fıtığı için beyin cerrahisine ne zaman gidilir?\",\r\n        \"acceptedAnswer\":{\r\n          \"@type\":\"Answer\",\r\n          \"text\":\"Kolda belirgin güç kaybı, ileri sinir basısı şüphesi veya cerrahi gerektiren bulgular varsa beyin ve sinir cerrahisi değerlendirmesi gerekir.\"\r\n        }\r\n      },\r\n      {\r\n        \"@type\":\"Question\",\r\n        \"name\":\"Boyun fıtığı fizik tedavi ile ilgilenir mi?\",\r\n        \"acceptedAnswer\":{\r\n          \"@type\":\"Answer\",\r\n          \"text\":\"Evet. Boyun kaslarında sertlik, hareket kısıtlılığı ve duruş bozukluğu varsa fizik tedavi uzmanı uygun değerlendirme yapabilir.\"\r\n        }\r\n      },\r\n      {\r\n        \"@type\":\"Question\",\r\n        \"name\":\"Boyun fıtığı için nörolojiye gidilir mi?\",\r\n        \"acceptedAnswer\":{\r\n          \"@type\":\"Answer\",\r\n          \"text\":\"Uyuşma, his kaybı ve sinir iletimini ilgilendiren belirtiler varsa nöroloji değerlendirmesi faydalı olabilir.\"\r\n        }\r\n      }\r\n    ]\r\n  }\r\n  </script>\r\n</section>"
+                },
+                "elements": [],
+                "widgetType": "html"
+            }
+        ],
+        "isInner": false
+    },
+    {
+        "id": "9599618",
+        "elType": "container",
+        "settings": [],
+        "elements": [
+            {
+                "id": "6e12e34",
+                "elType": "widget",
+                "settings": {
+                    "source": "custom",
+                    "author_avatar": {
+                        "url": "https://husnususlu.test/wp-content/uploads/2026/03/Profesor-Doktor-Husnu-Suslu.png",
+                        "id": 2179,
+                        "size": "",
+                        "alt": "Profesör Doktor Hüsnü Süslü",
+                        "source": "library"
+                    },
+                    "author_name": "Profesör Doktor Hüsnü Süslü",
+                    "author_bio": "Son Güncelleme 14.03.2026",
+                    "link_text": "All Posts"
+                },
+                "elements": [],
+                "widgetType": "author-box"
+            }
+        ],
+        "isInner": false
+    },
+    {
+        "id": "66da928",
+        "elType": "container",
+        "settings": {
+            "flex_direction": "column"
+        },
+        "elements": [
+            {
+                "id": "e8ceb4b",
+                "elType": "widget",
+                "settings": {
+                    "html": "<script type=\"application/ld+json\">\r\n{\r\n \"@context\": \"https://schema.org\",\r\n \"@type\": \"BreadcrumbList\",\r\n \"itemListElement\": [\r\n {\r\n \"@type\": \"ListItem\",\r\n \"position\": 1,\r\n \"name\": \"Anasayfa\",\r\n \"item\": \"https://husnususlu.test/\"\r\n },\r\n {\r\n \"@type\": \"ListItem\",\r\n \"position\": 2,\r\n \"name\": \"Bel Fıtığı\",\r\n \"item\": \"https://husnususlu.test/bel-fitigi/\"\r\n },\r\n {\r\n \"@type\": \"ListItem\",\r\n \"position\": 3,\r\n \"name\": \"Boyun Fıtığı İçin Hangi Doktora Gidilir?\",\r\n \"item\": \"https://husnususlu.test/boyun-fitigi-icin-hangi-doktora-gidilir/\"\r\n }\r\n ]\r\n}\r\n</script>"
+                },
+                "elements": [],
+                "widgetType": "html"
+            },
+            {
+                "id": "631603d",
+                "elType": "widget",
+                "settings": {
+                    "html": "<script type=\"application/ld+json\">\r\n{\r\n \"@context\":\"https://schema.org\",\r\n \"@type\":\"Person\",\r\n \"name\":\"Prof. Dr. Hüsnü Süslü\",\r\n \"jobTitle\":\"Algoloji Uzmanı\",\r\n \"url\":\"https://husnususlu.test/hakkimda/\",\r\n \"sameAs\":[\r\n \"https://scholar.google.com/citations?user=eEMcgJkAAAAJ&hl=tr\"\r\n ]\r\n}\r\n</script>"
+                },
+                "elements": [],
+                "widgetType": "html"
+            },
+            {
+                "id": "16beb4d",
+                "elType": "widget",
+                "settings": {
+                    "html": "<script type=\"application/ld+json\">\r\n{\r\n \"@context\": \"https://schema.org\",\r\n \"@type\": \"BreadcrumbList\",\r\n \"itemListElement\": [\r\n {\r\n \"@type\": \"ListItem\",\r\n \"position\": 1,\r\n \"name\": \"Anasayfa\",\r\n \"item\": \"https://husnususlu.test/\"\r\n },\r\n {\r\n \"@type\": \"ListItem\",\r\n \"position\": 2,\r\n \"name\": \"Bel Fıtığı\",\r\n \"item\": \"https://husnususlu.test/bel-fitigi/\"\r\n },\r\n {\r\n \"@type\": \"ListItem\",\r\n \"position\": 3,\r\n \"name\": \"Boyun Fıtığı için hangi doktora gidilir\",\r\n \"item\": \"https://husnususlu.test/boyun-fitigi-icin-hangi-doktora-gidilir/\"\r\n }\r\n ]\r\n}\r\n</script>"
+                },
+                "elements": [],
+                "widgetType": "html"
+            }
+        ],
+        "isInner": false
+    }
+]

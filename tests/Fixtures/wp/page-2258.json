@@ -1,0 +1,1778 @@
+[
+    {
+        "id": "6a24828",
+        "elType": "container",
+        "settings": {
+            "layout": "full_width",
+            "boxed_width": {
+                "unit": "px",
+                "size": "1200",
+                "sizes": []
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+                "horizontal": "0",
+                "vertical": "5",
+                "blur": "30",
+                "spread": "0",
+                "color": "rgba(0,0,0,0.1)"
+            },
+            "z_index": "10",
+            "_title": "Header",
+            "flex_direction": "column",
+            "flex_align_items": "center",
+            "flex_gap": {
+                "size": 0,
+                "unit": "px",
+                "column": "0",
+                "row": "0",
+                "isLinked": true
+            },
+            "content_width": "full",
+            "flex_wrap": "wrap",
+            "padding": {
+                "unit": "%",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+            },
+            "padding_tablet": {
+                "unit": "%",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+            },
+            "padding_mobile": {
+                "unit": "%",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+            },
+            "sticky": "top",
+            "background_background": "classic",
+            "background_color": "#000000"
+        },
+        "elements": [
+            {
+                "id": "2899e11",
+                "elType": "container",
+                "settings": {
+                    "width": {
+                        "unit": "px",
+                        "size": "1200",
+                        "sizes": []
+                    },
+                    "structure": "30",
+                    "background_background": "classic",
+                    "background_color": "#19439D",
+                    "margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": "1"
+                    },
+                    "margin_mobile": {
+                        "unit": "px",
+                        "top": "",
+                        "right": "0",
+                        "bottom": "",
+                        "left": "0",
+                        "isLinked": "1"
+                    },
+                    "padding": {
+                        "unit": "px",
+                        "top": "12",
+                        "right": "12",
+                        "bottom": "12",
+                        "left": "12",
+                        "isLinked": true
+                    },
+                    "padding_mobile": {
+                        "unit": "px",
+                        "top": "15",
+                        "right": "15",
+                        "bottom": "15",
+                        "left": "15",
+                        "isLinked": "1"
+                    },
+                    "reverse_order_mobile": "reverse-mobile",
+                    "flex_direction": "row",
+                    "flex_align_items": "stretch",
+                    "flex_gap": {
+                        "size": 10,
+                        "unit": "px",
+                        "column": "10",
+                        "row": "10",
+                        "isLinked": true
+                    },
+                    "boxed_width": {
+                        "unit": "px",
+                        "size": 1200,
+                        "sizes": []
+                    },
+                    "flex_justify_content": "space-between",
+                    "padding_tablet": {
+                        "unit": "px",
+                        "top": "27",
+                        "right": "15",
+                        "bottom": "27",
+                        "left": "15",
+                        "isLinked": false
+                    }
+                },
+                "elements": [
+                    {
+                        "id": "f568204",
+                        "elType": "container",
+                        "settings": {
+                            "_column_size": "33",
+                            "width": {
+                                "unit": "px",
+                                "size": 935
+                            },
+                            "hide_mobile": "hidden-mobile",
+                            "flex_justify_content": "center",
+                            "padding": {
+                                "unit": "px",
+                                "top": "0",
+                                "right": "0",
+                                "bottom": "0",
+                                "left": "0",
+                                "isLinked": "1"
+                            },
+                            "padding_tablet": {
+                                "unit": "px",
+                                "top": "",
+                                "right": "",
+                                "bottom": "",
+                                "left": "",
+                                "isLinked": "1"
+                            },
+                            "width_tablet": {
+                                "size": "75",
+                                "unit": "%"
+                            },
+                            "content_width": "full",
+                            "width_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "boxed_width": {
+                                "unit": "px",
+                                "size": 836,
+                                "sizes": []
+                            },
+                            "flex_direction": "column",
+                            "flex_align_items": "flex-start",
+                            "_flex_size": "none",
+                            "_element_width": "initial"
+                        },
+                        "elements": [
+                            {
+                                "id": "5b3198a",
+                                "elType": "widget",
+                                "settings": {
+                                    "view": "inline",
+                                    "icon_list": [
+                                        {
+                                            "text": "+90 530 171 88 60",
+                                            "icon": "fa fa-phone",
+                                            "_id": "33ae49b",
+                                            "selected_icon": {
+                                                "value": "fas fa-phone",
+                                                "library": "fa-solid"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "tel:+905301718860",
+                                                "is_external": "",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        },
+                                        {
+                                            "text": "info@husnususlu.com",
+                                            "icon": "fa fa-envelope",
+                                            "_id": "b3e8ba8",
+                                            "selected_icon": {
+                                                "value": "fas fa-envelope",
+                                                "library": "fa-solid"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "mailto:bilgi@opdrezgiaydin.com",
+                                                "is_external": "",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        },
+                                        {
+                                            "text": "Göztepe Mah. Bağdat Cad. Alemdar Apt. No:213/3Kadıköy-İSTANBUL",
+                                            "icon": "fa fa-envelope",
+                                            "_id": "017ea53",
+                                            "selected_icon": {
+                                                "value": "fas fa-map-marker-alt",
+                                                "library": "fa-solid"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "https://maps.app.goo.gl/UcPYLRsWsyWvYPQFA",
+                                                "is_external": "",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        }
+                                    ],
+                                    "space_between": {
+                                        "unit": "px",
+                                        "size": "30",
+                                        "sizes": []
+                                    },
+                                    "icon_align": "left",
+                                    "icon_color": "#ffffff",
+                                    "icon_size": {
+                                        "unit": "px",
+                                        "size": "16",
+                                        "sizes": []
+                                    },
+                                    "text_color": "#ffffff",
+                                    "text_indent": {
+                                        "unit": "px",
+                                        "size": "10",
+                                        "sizes": []
+                                    },
+                                    "icon_typography_typography": "custom",
+                                    "icon_typography_font_family": "Montserrat",
+                                    "icon_typography_font_size": {
+                                        "unit": "px",
+                                        "size": "14",
+                                        "sizes": []
+                                    },
+                                    "icon_typography_font_weight": "300",
+                                    "icon_align_mobile": "center",
+                                    "icon_typography_font_size_tablet": {
+                                        "unit": "px",
+                                        "size": 12,
+                                        "sizes": []
+                                    },
+                                    "text": "bilgi@opdrezgiaydin.com",
+                                    "link": {
+                                        "url": "mailto:bilgi@opdrezgiaydin.com",
+                                        "is_external": "",
+                                        "nofollow": "",
+                                        "custom_attributes": ""
+                                    },
+                                    "_background_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    }
+                                },
+                                "elements": [],
+                                "widgetType": "icon-list"
+                            }
+                        ],
+                        "isInner": true
+                    },
+                    {
+                        "id": "6706540",
+                        "elType": "container",
+                        "settings": {
+                            "_column_size": "33",
+                            "width": {
+                                "size": 180,
+                                "unit": "px"
+                            },
+                            "flex_justify_content": "flex-end",
+                            "padding": {
+                                "unit": "px",
+                                "top": "0",
+                                "right": "0",
+                                "bottom": "0",
+                                "left": "0",
+                                "isLinked": "1"
+                            },
+                            "padding_tablet": {
+                                "unit": "px",
+                                "top": "",
+                                "right": "",
+                                "bottom": "",
+                                "left": "",
+                                "isLinked": "1"
+                            },
+                            "width_tablet": {
+                                "size": 28,
+                                "unit": "%"
+                            },
+                            "width_mobile": {
+                                "size": 100,
+                                "unit": "%"
+                            },
+                            "content_width": "full",
+                            "flex_direction": "row",
+                            "flex_direction_mobile": "row-reverse",
+                            "flex_justify_content_mobile": "space-between",
+                            "flex_align_items": "center"
+                        },
+                        "elements": [
+                            {
+                                "id": "431d51b",
+                                "elType": "widget",
+                                "settings": {
+                                    "skin": "full_screen",
+                                    "placeholder": "",
+                                    "button_text": "Search",
+                                    "size": {
+                                        "unit": "px",
+                                        "size": "34",
+                                        "sizes": []
+                                    },
+                                    "toggle_align": "right",
+                                    "toggle_size": {
+                                        "unit": "px",
+                                        "size": "31",
+                                        "sizes": []
+                                    },
+                                    "icon_size_minimal": {
+                                        "unit": "px",
+                                        "size": "18",
+                                        "sizes": []
+                                    },
+                                    "overlay_background_color": "rgba(22,22,63,0.9)",
+                                    "input_typography_typography": "custom",
+                                    "input_typography_font_family": "Montserrat",
+                                    "input_typography_font_size": {
+                                        "unit": "px",
+                                        "size": "40",
+                                        "sizes": []
+                                    },
+                                    "input_typography_font_weight": "300",
+                                    "input_text_color": "#ffffff",
+                                    "input_background_color": "rgba(255,255,255,0)",
+                                    "input_border_color": "rgba(255,255,255,0.5)",
+                                    "border_radius": {
+                                        "unit": "px",
+                                        "size": "0",
+                                        "sizes": []
+                                    },
+                                    "toggle_color": "#ffffff",
+                                    "toggle_color_hover": "#d3b574",
+                                    "toggle_icon_size": {
+                                        "unit": "px",
+                                        "size": "50",
+                                        "sizes": []
+                                    },
+                                    "_background_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    }
+                                },
+                                "elements": [],
+                                "widgetType": "search-form"
+                            },
+                            {
+                                "id": "43cf3f4",
+                                "elType": "widget",
+                                "settings": {
+                                    "view": "inline",
+                                    "icon_list": [
+                                        {
+                                            "text": "",
+                                            "icon": "fa fa-twitter",
+                                            "_id": "6fb0b8f",
+                                            "selected_icon": {
+                                                "value": "fab fa-instagram",
+                                                "library": "fa-brands"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "https://www.instagram.com/husnususlu/",
+                                                "is_external": "",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        },
+                                        {
+                                            "text": "",
+                                            "icon": "fa fa-facebook-f",
+                                            "_id": "d730051",
+                                            "selected_icon": {
+                                                "value": "fab fa-facebook-f",
+                                                "library": "fa-brands"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "https://www.facebook.com/DrHusnuSuslu/",
+                                                "is_external": "",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        },
+                                        {
+                                            "text": "",
+                                            "icon": "fa fa-linkedin",
+                                            "selected_icon": {
+                                                "value": "fab fa-youtube",
+                                                "library": "fa-brands"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "https://www.youtube.com/@ProfDrHusnuSuslu",
+                                                "is_external": "",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            },
+                                            "_id": "5f44211"
+                                        }
+                                    ],
+                                    "space_between": {
+                                        "unit": "px",
+                                        "size": "15",
+                                        "sizes": []
+                                    },
+                                    "icon_align": "right",
+                                    "icon_color": "#ffffff",
+                                    "icon_size": {
+                                        "unit": "px",
+                                        "size": "18",
+                                        "sizes": []
+                                    },
+                                    "icon_align_mobile": "left",
+                                    "icon_color_hover": "#d3b574",
+                                    "icon_self_align": "center",
+                                    "_background_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    }
+                                },
+                                "elements": [],
+                                "widgetType": "icon-list"
+                            }
+                        ],
+                        "isInner": true
+                    }
+                ],
+                "isInner": true
+            }
+        ],
+        "isInner": false
+    },
+    {
+        "id": "0df8cf7",
+        "elType": "container",
+        "settings": {
+            "flex_direction": "row",
+            "flex_gap": {
+                "unit": "px",
+                "size": 0,
+                "column": "0",
+                "row": "0",
+                "isLinked": true
+            },
+            "boxed_width": {
+                "unit": "px",
+                "size": 1544,
+                "sizes": []
+            },
+            "flex_justify_content": "space-around",
+            "hide_tablet": "hidden-tablet",
+            "hide_mobile": "hidden-mobile",
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "animation": "none",
+            "sticky": "top"
+        },
+        "elements": [
+            {
+                "id": "efdb312",
+                "elType": "container",
+                "settings": {
+                    "flex_direction": "column",
+                    "content_width": "full",
+                    "width": {
+                        "unit": "%",
+                        "size": 19.606
+                    },
+                    "_flex_size": "none",
+                    "_element_width": "initial",
+                    "animation": "none"
+                },
+                "elements": [
+                    {
+                        "id": "b63e961",
+                        "elType": "widget",
+                        "settings": {
+                            "__dynamic__": {
+                                "image": "[elementor-tag id=\"\" name=\"site-logo\" settings=\"%7B%7D\"]",
+                                "link": "[elementor-tag id=\"\" name=\"site-url\" settings=\"%7B%7D\"]"
+                            },
+                            "width": {
+                                "unit": "%",
+                                "size": 100,
+                                "sizes": []
+                            },
+                            "css_filters_brightness": {
+                                "unit": "px",
+                                "size": 0,
+                                "sizes": []
+                            },
+                            "css_filters_saturate": {
+                                "unit": "px",
+                                "size": 0,
+                                "sizes": []
+                            },
+                            "height": {
+                                "unit": "px",
+                                "size": 101,
+                                "sizes": []
+                            },
+                            "align": "left",
+                            "image": {
+                                "id": "",
+                                "url": "https://husnususlu.test/wp-content/plugins/elementor/assets/images/placeholder.png"
+                            },
+                            "text_color": "#324A6D",
+                            "caption_typography_typography": "custom",
+                            "caption_typography_font_family": "Poppins",
+                            "caption_typography_font_size": {
+                                "unit": "px",
+                                "size": 16,
+                                "sizes": []
+                            },
+                            "caption_typography_font_size_tablet": {
+                                "unit": "px",
+                                "size": 14,
+                                "sizes": []
+                            },
+                            "caption_typography_font_weight": "300",
+                            "caption_typography_text_transform": "none",
+                            "caption_typography_font_style": "normal",
+                            "caption_typography_text_decoration": "none",
+                            "caption_typography_line_height": {
+                                "unit": "em",
+                                "size": 1.5,
+                                "sizes": []
+                            },
+                            "caption_typography_letter_spacing": {
+                                "unit": "px",
+                                "size": 0,
+                                "sizes": []
+                            },
+                            "__globals__": [],
+                            "content_width": "full",
+                            "space": {
+                                "unit": "%",
+                                "size": 100,
+                                "sizes": []
+                            },
+                            "_flex_align_self": "center",
+                            "_flex_order": "start",
+                            "_margin": {
+                                "unit": "px",
+                                "top": "-30",
+                                "right": "-30",
+                                "bottom": "-30",
+                                "left": "-30",
+                                "isLinked": true
+                            },
+                            "_element_width": "initial",
+                            "_element_custom_width": {
+                                "unit": "%",
+                                "size": 94.785
+                            },
+                            "_flex_size": "none",
+                            "object-fit": "contain",
+                            "_animation": "none",
+                            "_background_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "theme-site-logo"
+                    }
+                ],
+                "isInner": true
+            },
+            {
+                "id": "e08713c",
+                "elType": "container",
+                "settings": {
+                    "flex_direction": "row",
+                    "content_width": "full",
+                    "width": {
+                        "unit": "%",
+                        "size": 61
+                    },
+                    "_flex_align_self": "flex-start",
+                    "_flex_size": "none",
+                    "_element_width": "initial"
+                },
+                "elements": [
+                    {
+                        "id": "c780a37",
+                        "elType": "widget",
+                        "settings": {
+                            "content_width": "full",
+                            "selected_icon": {
+                                "value": {
+                                    "url": "https://husnususlu.test/wp-content/uploads/2025/10/recover-sick-old-age-walker-svgrepo-com-1.svg",
+                                    "id": 1655
+                                },
+                                "library": "svg"
+                            },
+                            "title_text": "",
+                            "description_text": "",
+                            "icon_space": {
+                                "unit": "px",
+                                "size": 0,
+                                "sizes": []
+                            },
+                            "icon_size": {
+                                "unit": "px",
+                                "size": 32,
+                                "sizes": []
+                            },
+                            "rotate": {
+                                "unit": "deg",
+                                "size": 0,
+                                "sizes": []
+                            },
+                            "primary_color": "#19439D",
+                            "_flex_align_self": "flex-start",
+                            "hover_primary_color": "#19439D",
+                            "_background_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "icon-box"
+                    },
+                    {
+                        "id": "ef27680",
+                        "elType": "widget",
+                        "settings": {
+                            "content_width": "full",
+                            "ending_number": 11700,
+                            "prefix": " <font color=\"#18449a\"> Bizi Tercih Eden </font>",
+                            "suffix": "+ Hasta",
+                            "title": "",
+                            "number_position": "center",
+                            "number_gap": {
+                                "unit": "px",
+                                "size": 0,
+                                "sizes": []
+                            },
+                            "typography_number_typography": "custom",
+                            "typography_number_font_family": "Roboto",
+                            "typography_number_font_size": {
+                                "unit": "px",
+                                "size": 12,
+                                "sizes": []
+                            },
+                            "typography_number_font_weight": "600",
+                            "_flex_align_self": "center",
+                            "number_color": "#FC0000",
+                            "duration": 3000,
+                            "_background_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "counter"
+                    },
+                    {
+                        "id": "14d2fa9",
+                        "elType": "widget",
+                        "settings": {
+                            "content_width": "full",
+                            "selected_icon": {
+                                "value": {
+                                    "url": "https://husnususlu.test/wp-content/uploads/2025/10/relaxing-procedure-svgrepo-com.svg",
+                                    "id": 1658
+                                },
+                                "library": "svg"
+                            },
+                            "title_text": "",
+                            "description_text": "",
+                            "icon_space": {
+                                "unit": "px",
+                                "size": 0,
+                                "sizes": []
+                            },
+                            "icon_size": {
+                                "unit": "px",
+                                "size": 32,
+                                "sizes": []
+                            },
+                            "rotate": {
+                                "unit": "deg",
+                                "size": 0,
+                                "sizes": []
+                            },
+                            "primary_color": "#19439D",
+                            "_flex_align_self": "flex-start",
+                            "_background_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "icon-box"
+                    },
+                    {
+                        "id": "6688237",
+                        "elType": "widget",
+                        "settings": {
+                            "content_width": "full",
+                            "ending_number": 27,
+                            "prefix": " <font color=\"#18449a\">Girişimsel İşlem </font>",
+                            "suffix": "&nbsp;Teknik ",
+                            "title": "",
+                            "number_position": "center",
+                            "number_gap": {
+                                "unit": "px",
+                                "size": 0,
+                                "sizes": []
+                            },
+                            "typography_number_typography": "custom",
+                            "typography_number_font_family": "Roboto",
+                            "typography_number_font_size": {
+                                "unit": "px",
+                                "size": 12,
+                                "sizes": []
+                            },
+                            "typography_number_font_weight": "600",
+                            "_flex_align_self": "center",
+                            "number_color": "#FF0000",
+                            "duration": 5000,
+                            "_background_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "counter"
+                    },
+                    {
+                        "id": "0460a36",
+                        "elType": "widget",
+                        "settings": {
+                            "content_width": "full",
+                            "selected_icon": {
+                                "value": {
+                                    "url": "https://husnususlu.test/wp-content/uploads/2025/10/article-1-svgrepo-com-2.svg",
+                                    "id": 1664
+                                },
+                                "library": "svg"
+                            },
+                            "title_text": "",
+                            "description_text": "",
+                            "icon_space": {
+                                "unit": "px",
+                                "size": 0,
+                                "sizes": []
+                            },
+                            "icon_size": {
+                                "unit": "px",
+                                "size": 32,
+                                "sizes": []
+                            },
+                            "rotate": {
+                                "unit": "deg",
+                                "size": 0,
+                                "sizes": []
+                            },
+                            "primary_color": "#19439D",
+                            "_flex_align_self": "flex-start",
+                            "_background_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "icon-box"
+                    },
+                    {
+                        "id": "bd3861c",
+                        "elType": "widget",
+                        "settings": {
+                            "content_width": "full",
+                            "ending_number": 28,
+                            "prefix": " <font color=\"#18449a\">Yayınlanmış</font> ",
+                            "suffix": "+  Bilimsel Yayın",
+                            "title": "",
+                            "number_position": "center",
+                            "number_gap": {
+                                "unit": "px",
+                                "size": 0,
+                                "sizes": []
+                            },
+                            "typography_number_typography": "custom",
+                            "typography_number_font_family": "Roboto",
+                            "typography_number_font_size": {
+                                "unit": "px",
+                                "size": 12,
+                                "sizes": []
+                            },
+                            "typography_number_font_weight": "600",
+                            "_flex_align_self": "center",
+                            "number_color": "#FF0000",
+                            "duration": 5000,
+                            "_background_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "counter"
+                    }
+                ],
+                "isInner": true
+            },
+            {
+                "id": "573b52b",
+                "elType": "widget",
+                "settings": {
+                    "text": "Online Randevu",
+                    "align": "left",
+                    "icon": "fa fa-long-arrow-right",
+                    "icon_indent": {
+                        "unit": "px",
+                        "size": "10",
+                        "sizes": []
+                    },
+                    "typography_typography": "custom",
+                    "typography_font_family": "Montserrat",
+                    "typography_font_size": {
+                        "unit": "px",
+                        "size": "16",
+                        "sizes": []
+                    },
+                    "typography_font_weight": "400",
+                    "button_text_color": "#FFFFFF",
+                    "background_color": "#19439D",
+                    "border_radius": {
+                        "unit": "px",
+                        "top": "33",
+                        "right": "33",
+                        "bottom": "33",
+                        "left": "33",
+                        "isLinked": "1"
+                    },
+                    "hover_color": "#FFFFFF",
+                    "button_background_hover_color": "#EE0000",
+                    "size": "md",
+                    "text_padding_mobile": {
+                        "unit": "px",
+                        "top": "15",
+                        "right": "20",
+                        "bottom": "15",
+                        "left": "20",
+                        "isLinked": ""
+                    },
+                    "typography_text_transform": "capitalize",
+                    "selected_icon": {
+                        "value": "fas fa-phone-square-alt",
+                        "library": "fa-solid"
+                    },
+                    "__fa4_migrated": {
+                        "selected_icon": "1"
+                    },
+                    "__dynamic__": {
+                        "link": "[elementor-tag id=\"1a05bf9\" name=\"popup\" settings=\"%7B%22popup%22%3A%2244%22%7D\"]"
+                    },
+                    "hide_mobile": "hidden-phone",
+                    "typography_font_size_mobile": {
+                        "unit": "px",
+                        "size": 13,
+                        "sizes": []
+                    },
+                    "content_width": "full",
+                    "_background_color_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_color_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_color_b_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_color_b_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_gradient_angle_tablet": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_gradient_angle_mobile": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_b_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_b_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_gradient_angle_tablet": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_gradient_angle_mobile": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    }
+                },
+                "elements": [],
+                "widgetType": "button"
+            }
+        ],
+        "isInner": false
+    },
+    {
+        "id": "b131f30",
+        "elType": "container",
+        "settings": {
+            "flex_direction": "row"
+        },
+        "elements": [
+            {
+                "id": "0eee08b",
+                "elType": "widget",
+                "settings": {
+                    "__dynamic__": {
+                        "image": "[elementor-tag id=\"\" name=\"site-logo\" settings=\"%7B%7D\"]"
+                    },
+                    "_element_width": "initial",
+                    "_element_custom_width": {
+                        "unit": "%",
+                        "size": 49.017
+                    },
+                    "_flex_size": "none",
+                    "hide_desktop": "hidden-desktop",
+                    "hide_tablet": "hidden-tablet",
+                    "image": {
+                        "id": 1627,
+                        "url": "https://husnususlu.test/wp-content/uploads/2025/10/placeholder.png"
+                    },
+                    "_background_color_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_color_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_color_b_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_color_b_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_gradient_angle_tablet": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_gradient_angle_mobile": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_b_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_b_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_gradient_angle_tablet": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_gradient_angle_mobile": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    }
+                },
+                "elements": [],
+                "widgetType": "theme-site-logo"
+            },
+            {
+                "id": "8919a76",
+                "elType": "widget",
+                "settings": {
+                    "content_width": "full",
+                    "menu_name": "Menü",
+                    "menu": "ana-menu",
+                    "align_items": "center",
+                    "submenu_icon": {
+                        "value": "fas fa-angle-down",
+                        "library": "fa-solid"
+                    },
+                    "full_width": "stretch",
+                    "toggle_align": "right",
+                    "color_menu_item": "#19439D",
+                    "padding_horizontal_dropdown_item_mobile": {
+                        "unit": "px",
+                        "size": 53,
+                        "sizes": []
+                    },
+                    "padding_vertical_dropdown_item_mobile": {
+                        "unit": "px",
+                        "size": 5,
+                        "sizes": []
+                    },
+                    "_margin_mobile": {
+                        "unit": "px",
+                        "top": "7",
+                        "right": "7",
+                        "bottom": "7",
+                        "left": "7",
+                        "isLinked": true
+                    },
+                    "_flex_align_self_mobile": "flex-end",
+                    "_flex_order": "end",
+                    "_flex_size_mobile": "grow",
+                    "color_menu_item_hover": "#F20606",
+                    "pointer_color_menu_item_hover": "#FF0000",
+                    "color_menu_item_active": "#19439D",
+                    "pointer_color_menu_item_active": "#000000",
+                    "menu_id": 3,
+                    "nav_menu_divider": "yes",
+                    "_background_color_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_color_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_color_b_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_color_b_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_gradient_angle_tablet": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_gradient_angle_mobile": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_b_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_b_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_gradient_angle_tablet": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_gradient_angle_mobile": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    }
+                },
+                "elements": [],
+                "widgetType": "nav-menu"
+            }
+        ],
+        "isInner": false
+    },
+    {
+        "id": "6019150",
+        "elType": "container",
+        "settings": {
+            "flex_direction": "column"
+        },
+        "elements": [
+            {
+                "id": "da262d7",
+                "elType": "widget",
+                "settings": {
+                    "html": "<section class=\"hs-publications\">\r\n  <style>\r\n    .hs-publications{\r\n      --bg:#f5f7fb;\r\n      --card:#ffffff;\r\n      --text:#1f2937;\r\n      --muted:#6b7280;\r\n      --line:#e5e7eb;\r\n      --primary:#0f766e;\r\n      --primary-soft:#ccfbf1;\r\n      --dark:#0b1324;\r\n      --badge:#eef2ff;\r\n      --shadow:0 10px 30px rgba(15, 23, 42, 0.06);\r\n      max-width:1180px;\r\n      margin:0 auto;\r\n      padding:48px 20px;\r\n      font-family:Arial, Helvetica, sans-serif;\r\n      color:var(--text);\r\n      line-height:1.7;\r\n    }\r\n    .hs-publications *{box-sizing:border-box;}\r\n    .hs-wrap{\r\n      background:linear-gradient(180deg,#ffffff 0%, #f8fafc 100%);\r\n      border:1px solid var(--line);\r\n      border-radius:24px;\r\n      padding:32px;\r\n      box-shadow:var(--shadow);\r\n    }\r\n    .hs-hero{\r\n      display:grid;\r\n      grid-template-columns:1.2fr .8fr;\r\n      gap:24px;\r\n      align-items:stretch;\r\n      margin-bottom:28px;\r\n    }\r\n    .hs-titlebox{\r\n      background:linear-gradient(135deg,#0b1324 0%, #123456 100%);\r\n      color:#fff;\r\n      border-radius:22px;\r\n      padding:32px;\r\n      box-shadow:var(--shadow);\r\n    }\r\n    .hs-titlebox h1{\r\n      margin:0 0 14px;\r\n      font-size:38px;\r\n      line-height:1.15;\r\n      letter-spacing:-0.02em;\r\n    }\r\n    .hs-titlebox p{\r\n      margin:0;\r\n      color:rgba(255,255,255,.88);\r\n      font-size:17px;\r\n      max-width:760px;\r\n    }\r\n    .hs-scholar{\r\n      background:#fff;\r\n      border:1px solid var(--line);\r\n      border-radius:22px;\r\n      padding:26px;\r\n      box-shadow:var(--shadow);\r\n      display:flex;\r\n      flex-direction:column;\r\n      justify-content:space-between;\r\n    }\r\n    .hs-scholar h2{\r\n      margin:0 0 10px;\r\n      font-size:24px;\r\n      line-height:1.2;\r\n      color:var(--dark);\r\n    }\r\n    .hs-scholar p{\r\n      margin:0 0 16px;\r\n      color:var(--muted);\r\n      font-size:15px;\r\n    }\r\n    .hs-button{\r\n      display:inline-block;\r\n      padding:12px 18px;\r\n      background:var(--dark);\r\n      color:#fff !important;\r\n      text-decoration:none;\r\n      border-radius:12px;\r\n      font-weight:700;\r\n      transition:.2s ease;\r\n    }\r\n    .hs-button:hover{\r\n      opacity:.92;\r\n      transform:translateY(-1px);\r\n    }\r\n    .hs-stats{\r\n      display:grid;\r\n      grid-template-columns:repeat(4,1fr);\r\n      gap:14px;\r\n      margin-bottom:30px;\r\n    }\r\n    .hs-stat{\r\n      background:#fff;\r\n      border:1px solid var(--line);\r\n      border-radius:18px;\r\n      padding:18px 18px 16px;\r\n      box-shadow:var(--shadow);\r\n    }\r\n    .hs-stat strong{\r\n      display:block;\r\n      font-size:26px;\r\n      line-height:1;\r\n      color:var(--dark);\r\n      margin-bottom:6px;\r\n    }\r\n    .hs-stat span{\r\n      color:var(--muted);\r\n      font-size:14px;\r\n    }\r\n    .hs-section-title{\r\n      display:flex;\r\n      align-items:center;\r\n      justify-content:space-between;\r\n      gap:12px;\r\n      margin:8px 0 18px;\r\n      padding-bottom:14px;\r\n      border-bottom:1px solid var(--line);\r\n    }\r\n    .hs-section-title h3{\r\n      margin:0;\r\n      font-size:26px;\r\n      line-height:1.2;\r\n      color:var(--dark);\r\n    }\r\n    .hs-section-title p{\r\n      margin:0;\r\n      color:var(--muted);\r\n      font-size:14px;\r\n    }\r\n    .hs-list{\r\n      display:grid;\r\n      gap:16px;\r\n    }\r\n    .hs-card{\r\n      background:var(--card);\r\n      border:1px solid var(--line);\r\n      border-radius:20px;\r\n      padding:22px 22px 18px;\r\n      box-shadow:var(--shadow);\r\n    }\r\n    .hs-top{\r\n      display:flex;\r\n      align-items:flex-start;\r\n      justify-content:space-between;\r\n      gap:16px;\r\n      margin-bottom:12px;\r\n    }\r\n    .hs-num{\r\n      display:inline-flex;\r\n      align-items:center;\r\n      justify-content:center;\r\n      min-width:38px;\r\n      height:38px;\r\n      border-radius:999px;\r\n      background:var(--primary-soft);\r\n      color:var(--primary);\r\n      font-weight:700;\r\n      font-size:15px;\r\n      flex-shrink:0;\r\n    }\r\n    .hs-year{\r\n      display:inline-block;\r\n      padding:6px 10px;\r\n      border-radius:999px;\r\n      background:var(--badge);\r\n      color:#3730a3;\r\n      font-size:12px;\r\n      font-weight:700;\r\n      white-space:nowrap;\r\n      flex-shrink:0;\r\n    }\r\n    .hs-heading{\r\n      display:flex;\r\n      gap:14px;\r\n      flex:1;\r\n    }\r\n    .hs-card h4{\r\n      margin:0;\r\n      font-size:21px;\r\n      line-height:1.35;\r\n      color:var(--dark);\r\n      letter-spacing:-0.01em;\r\n    }\r\n    .hs-meta{\r\n      display:grid;\r\n      gap:6px;\r\n      margin-top:14px;\r\n    }\r\n    .hs-meta p{\r\n      margin:0;\r\n      color:var(--text);\r\n      font-size:15px;\r\n    }\r\n    .hs-meta strong{\r\n      color:var(--dark);\r\n    }\r\n    .hs-tags{\r\n      display:flex;\r\n      flex-wrap:wrap;\r\n      gap:8px;\r\n      margin-top:14px;\r\n    }\r\n    .hs-tag{\r\n      display:inline-block;\r\n      padding:7px 10px;\r\n      border-radius:999px;\r\n      font-size:12px;\r\n      font-weight:700;\r\n      background:#f3f4f6;\r\n      color:#374151;\r\n      border:1px solid #e5e7eb;\r\n    }\r\n    .hs-tag.sci{\r\n      background:#ecfeff;\r\n      color:#155e75;\r\n      border-color:#bae6fd;\r\n    }\r\n    .hs-tag.ulusal{\r\n      background:#fef3c7;\r\n      color:#92400e;\r\n      border-color:#fde68a;\r\n    }\r\n    .hs-tag.diger{\r\n      background:#f3e8ff;\r\n      color:#6b21a8;\r\n      border-color:#e9d5ff;\r\n    }\r\n    .hs-links{\r\n      margin-top:14px;\r\n      display:flex;\r\n      flex-wrap:wrap;\r\n      gap:10px;\r\n    }\r\n    .hs-link{\r\n      display:inline-block;\r\n      padding:10px 14px;\r\n      border-radius:12px;\r\n      text-decoration:none;\r\n      font-weight:700;\r\n      font-size:14px;\r\n      border:1px solid var(--line);\r\n      color:var(--dark);\r\n      background:#fff;\r\n    }\r\n    .hs-link:hover{\r\n      border-color:#cbd5e1;\r\n      background:#f8fafc;\r\n    }\r\n    .hs-note{\r\n      margin-top:28px;\r\n      padding:18px 20px;\r\n      border:1px solid var(--line);\r\n      border-radius:18px;\r\n      background:#fff;\r\n      color:var(--muted);\r\n      font-size:14px;\r\n    }\r\n    @media (max-width:980px){\r\n      .hs-hero{grid-template-columns:1fr;}\r\n      .hs-stats{grid-template-columns:repeat(2,1fr);}\r\n    }\r\n    @media (max-width:640px){\r\n      .hs-wrap{padding:20px;}\r\n      .hs-titlebox{padding:24px;}\r\n      .hs-titlebox h1{font-size:30px;}\r\n      .hs-stats{grid-template-columns:1fr 1fr;}\r\n      .hs-top{flex-direction:column; align-items:flex-start;}\r\n      .hs-heading{width:100%;}\r\n      .hs-card h4{font-size:18px;}\r\n    }\r\n  </style>\r\n\r\n  <div class=\"hs-wrap\">\r\n\r\n    <div class=\"hs-hero\">\r\n      <div class=\"hs-titlebox\">\r\n        <h1>Akademik Yayınlar</h1>\r\n        <p>\r\n          Prof. Dr. Hüsnü Süslü’nün ulusal ve uluslararası hakemli dergilerde yayımlanmış akademik çalışmaları.\r\n          Güncel yayın ve atıf görünürlüğü için Google Scholar profili de referans olarak kullanılabilir.\r\n        </p>\r\n      </div>\r\n\r\n      <div class=\"hs-scholar\">\r\n        <div>\r\n          <h2>Google Scholar Profili</h2>\r\n          <p>\r\n            Güncel akademik profil, yayın görünürlüğü ve atıf bilgileri için Google Scholar sayfasını inceleyebilirsiniz.\r\n          </p>\r\n        </div>\r\n        <div>\r\n          <a class=\"hs-button\" href=\"https://scholar.google.com/citations?user=eEMcgJkAAAAJ&hl=tr\" target=\"_blank\" rel=\"noopener nofollow\">\r\n            Google Scholar Profilini Aç\r\n          </a>\r\n        </div>\r\n      </div>\r\n    </div>\r\n\r\n    <div class=\"hs-stats\">\r\n      <div class=\"hs-stat\">\r\n        <strong>28</strong>\r\n        <span>Toplam yayın</span>\r\n      </div>\r\n      <div class=\"hs-stat\">\r\n        <strong>8</strong>\r\n        <span>SCI / SCI-Expanded yayın</span>\r\n      </div>\r\n      <div class=\"hs-stat\">\r\n        <strong>1999–2021</strong>\r\n        <span>Yayın aralığı</span>\r\n      </div>\r\n      <div class=\"hs-stat\">\r\n        <strong>Algoloji</strong>\r\n        <span>Odak alanlar</span>\r\n      </div>\r\n    </div>\r\n\r\n    <div class=\"hs-section-title\">\r\n      <h3>Tüm Yayınlar</h3>\r\n      <p>Yıl sırasına göre düzenlenmiştir.</p>\r\n    </div>\r\n\r\n    <div class=\"hs-list\">\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">1</span>\r\n            <div>\r\n              <h4>The effects of ozone oxidative preconditioning on subarachnoid hemorrhage via rat cerebral vasospasm model</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2021</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Hikmet Süslü, Necati Tatarlı, Davut Ceylan, Hüsnü Süslü, Timuçin Avşar, Bülent Güçlü</p>\r\n          <p><strong>Yayın Yeri:</strong> Neurological Sciences and Neurophysiology</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag sci\">SCI-Expanded</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n          <span class=\"hs-tag\">Uluslararası Hakemli</span>\r\n        </div>\r\n        <div class=\"hs-links\">\r\n          <a class=\"hs-link\" href=\"https://dx.doi.org/10.4103/NSN.NSN_74_20\" target=\"_blank\" rel=\"noopener nofollow\">DOI Bağlantısı</a>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">2</span>\r\n            <div>\r\n              <h4>Ultrasound guided erector spinae plane block relieves lower cervical and interscapular myofascial pain, a new indication</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2019</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Serkan Tulgar, David Terence Thomas, Hüsnü Süslü</p>\r\n          <p><strong>Yayın Yeri:</strong> Journal of Clinical Anesthesia</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag sci\">SCI-Expanded</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n          <span class=\"hs-tag\">Uluslararası Hakemli</span>\r\n        </div>\r\n        <div class=\"hs-links\">\r\n          <a class=\"hs-link\" href=\"https://dx.doi.org/10.1016/j.jclinane.2018.10.008\" target=\"_blank\" rel=\"noopener nofollow\">DOI Bağlantısı</a>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">3</span>\r\n            <div>\r\n              <h4>Percutaneous radiofrequency trigeminal rhizotomy for the treatment of idiopathic trigeminal neuralgia: Experience in 106 patients</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2018</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Hüsnü Süslü, Hikmet Süslü, Selçuk Özdoğan, Bülent Güçlü, Ali Haluk Düzkalır</p>\r\n          <p><strong>Yayın Yeri:</strong> Neurological Sciences and Neurophysiology</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag sci\">SCI-Expanded</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n          <span class=\"hs-tag\">Uluslararası Hakemli</span>\r\n        </div>\r\n        <div class=\"hs-links\">\r\n          <a class=\"hs-link\" href=\"https://dx.doi.org/10.5152/NSN.2018.9452\" target=\"_blank\" rel=\"noopener nofollow\">DOI Bağlantısı</a>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">4</span>\r\n            <div>\r\n              <h4>Comparison of Local Steroid Injection and Pulsed Radiofrequency Neuromodulation for the Treatment of Mild Idiopathic Carpal Tunnel Syndrome</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2016</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Hüsnü Süslü, Hikmet Süslü, Bülent Güçlü, Selçuk Özdoğan, Ali Haluk Düzkalır, Hakan Karabağlı</p>\r\n          <p><strong>Yayın Yeri:</strong> Journal of Neurological Sciences [Turkish]</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag sci\">SCI-Expanded</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n          <span class=\"hs-tag\">Uluslararası Hakemli</span>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">5</span>\r\n            <div>\r\n              <h4>Influence of Prior Lumbosacral Surgery on The Incidence of Intravascular Injection During Transforaminal Epidural Injections</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2015</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Hüsnü Süslü, Hikmet Turan Süslü, Necati Tatarlı, Davut Ceylan, Bülent Güçlü, Hakan Karabağlı</p>\r\n          <p><strong>Yayın Yeri:</strong> Journal of Neurological Sciences (Turkish)</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag sci\">SCI-Expanded</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n          <span class=\"hs-tag\">Uluslararası Hakemli</span>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">6</span>\r\n            <div>\r\n              <h4>Epiduroskopy Usage for Pain Management Of Failed Back Surgery Syndrome</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2015</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Hüsnü Süslü, Cumhur Kaan Yaltırak, Selçuk Özdoğan, Özgür Şenol, Necati Tatarlı, Ali Haluk Düzkalır, Hanife Gülden Düzkalır</p>\r\n          <p><strong>Yayın Yeri:</strong> The Journal of Turkish Spinal Surgery</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag ulusal\">Ulusal Hakemli</span>\r\n          <span class=\"hs-tag diger\">Türkiye Atıf Dizini</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">7</span>\r\n            <div>\r\n              <h4>Fluoroskopy Guided Transforaminal Steroid Injection on Cervical Radicular Pain</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2015</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Hüsnü Süslü, Hanife Gülden Düzkalır, Selçuk Özdoğan, Özgür Şenol, Necati Tatarlı, Ali Haluk Düzkalır, Cumhur Kaan Yaltırık</p>\r\n          <p><strong>Yayın Yeri:</strong> The Journal of Turkish Spinal Surgery</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag ulusal\">Ulusal Hakemli</span>\r\n          <span class=\"hs-tag diger\">Türkiye Atıf Dizini</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">8</span>\r\n            <div>\r\n              <h4>Lumbar intramedullary abscess emergency due to dermal sinus tract case report and literature review</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2013</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Hikmet Turan Süslü, Tufan Hiçdönmez, Hüsnü Süslü, Luay Şerifoğlu, Mustafa Kaya</p>\r\n          <p><strong>Yayın Yeri:</strong> J Neurol Surg A Cent Eur Neurosurg</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag sci\">SCI-Expanded</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n          <span class=\"hs-tag\">Uluslararası Hakemli</span>\r\n        </div>\r\n        <div class=\"hs-links\">\r\n          <a class=\"hs-link\" href=\"https://dx.doi.org/10.1055/s-0033-1345093\" target=\"_blank\" rel=\"noopener nofollow\">DOI Bağlantısı</a>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">9</span>\r\n            <div>\r\n              <h4>Comparison of the effects of local and systemic dexamethasone on the rat traumatic sciatic nerve model</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2013</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Hüsnü Süslü, Murat Altun, Başar Erdivanlı, Hikmet Turan Süslü</p>\r\n          <p><strong>Yayın Yeri:</strong> Turkish Neurosurgery</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag sci\">SCI-Expanded</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n          <span class=\"hs-tag\">Uluslararası Hakemli</span>\r\n        </div>\r\n        <div class=\"hs-links\">\r\n          <a class=\"hs-link\" href=\"https://dx.doi.org/10.5137/1019-5149.JTN.7761-13.0\" target=\"_blank\" rel=\"noopener nofollow\">DOI Bağlantısı</a>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">10</span>\r\n            <div>\r\n              <h4>The effects of fentanyl and morphine added to levobupivacaine in spinal anesthesia for cesarean section</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2013</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Müjge Hatun, Gülten Arslan, Feriha Temizel, Hakan Erkal, Hüsnü Süslü, Yaman Özyurt, Tamer Kuzucuoğlu, Zuhal Arıkan</p>\r\n          <p><strong>Yayın Yeri:</strong> The Journal of Kartal Training and Research Hospital</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag diger\">Diğer Endeksler</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n          <span class=\"hs-tag\">Uluslararası Hakemli</span>\r\n        </div>\r\n        <div class=\"hs-links\">\r\n          <a class=\"hs-link\" href=\"https://dx.doi.org/10.5505/jkartaltr.2013.90377\" target=\"_blank\" rel=\"noopener nofollow\">DOI Bağlantısı</a>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">11</span>\r\n            <div>\r\n              <h4>A practical laboratory study simulating the percutaneous lumbar transforaminal epidural injection training model in fresh cadaveric sheep spine</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2012</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazar:</strong> Hüsnü Süslü</p>\r\n          <p><strong>Yayın Yeri:</strong> Turkish Neurosurgery</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag sci\">SCI-Expanded</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n          <span class=\"hs-tag\">Uluslararası Hakemli</span>\r\n        </div>\r\n        <div class=\"hs-links\">\r\n          <a class=\"hs-link\" href=\"https://dx.doi.org/10.5137/1019-5149.JTN.5899-12.2\" target=\"_blank\" rel=\"noopener nofollow\">DOI Bağlantısı</a>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">12</span>\r\n            <div>\r\n              <h4>Venous Port Implantation in Adult Patients Retrospective Evaluation</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2012</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Hüsnü Süslü, Gülten Arslan, Kemal Tural</p>\r\n          <p><strong>Yayın Yeri:</strong> Ağrı – The Journal of The Turkish Society of Algology</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag diger\">PubMed</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n          <span class=\"hs-tag\">Uluslararası Hakemli</span>\r\n        </div>\r\n        <div class=\"hs-links\">\r\n          <a class=\"hs-link\" href=\"https://dx.doi.org/10.5505/agri.2012.17362\" target=\"_blank\" rel=\"noopener nofollow\">DOI Bağlantısı</a>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">13</span>\r\n            <div>\r\n              <h4>Comparison of the hemodynamic and analgesic effects of preoperative oral pregabalin or pregabalin with dexketoprofen in laparoscopic cholecystectomies</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2012</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Emel Dal, Gülten Arslan, Hüsnü Süslü, Feriha Temizel, Süleyman Derman, Leyla Saitoğlu</p>\r\n          <p><strong>Yayın Yeri:</strong> The Journal of Kartal Training and Research Hospital</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag diger\">Diğer Endeksler</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n          <span class=\"hs-tag\">Uluslararası Hakemli</span>\r\n        </div>\r\n        <div class=\"hs-links\">\r\n          <a class=\"hs-link\" href=\"https://dx.doi.org/10.5505/jkartaltr.2012.36024\" target=\"_blank\" rel=\"noopener nofollow\">DOI Bağlantısı</a>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">14</span>\r\n            <div>\r\n              <h4>Dexmedetomidine Versus Remifentanil For Controlled Hypotensive Anesthesia in Functional Endoscopic Sinus Surgery</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2012</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Abdullah Aydın Özcan, Yaman Özyurt, Ayten Saraçoğlu, Hakan Erkal, Hüsnü Süslü, Gülten Arslan, Feriha Temizel</p>\r\n          <p><strong>Yayın Yeri:</strong> Turkish Journal of Anesthesia and Reanimation</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag diger\">EMBASE / Scopus</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n          <span class=\"hs-tag\">Uluslararası Hakemli</span>\r\n        </div>\r\n        <div class=\"hs-links\">\r\n          <a class=\"hs-link\" href=\"https://dx.doi.org/10.5152/TJAR.2012.001\" target=\"_blank\" rel=\"noopener nofollow\">DOI Bağlantısı</a>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">15</span>\r\n            <div>\r\n              <h4>One stage surgery through posterior approach for L5 S1 spondyloptosis</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2011</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Hikmet Turan Süslü, Erhan Çelikoğlu, Ali Börekçi, Tufan Hiçdönmez, Hüsnü Süslü</p>\r\n          <p><strong>Yayın Yeri:</strong> Journal of Craniovertebral Junction and Spine</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag sci\">SCI-Expanded</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n          <span class=\"hs-tag\">Uluslararası Hakemli</span>\r\n        </div>\r\n        <div class=\"hs-links\">\r\n          <a class=\"hs-link\" href=\"https://dx.doi.org/10.4103/0974-8237.100066\" target=\"_blank\" rel=\"noopener nofollow\">DOI Bağlantısı</a>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">16</span>\r\n            <div>\r\n              <h4>Miyofasiyal ağrı sendromunda tetik nokta enjeksiyonu / Trigger point injection in myofascial pain syndrome</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2011</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Hüsnü Süslü, Gülten Arslan, Kasım İlker İtal, Yasin Ustacık, Tamer Kuzucuoğlu, Serhan Çolakoğlu</p>\r\n          <p><strong>Yayın Yeri:</strong> Bakırköy Tıp Dergisi / Medical Journal of Bakirkoy</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag diger\">Diğer Endeksler</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n          <span class=\"hs-tag\">Uluslararası Hakemli</span>\r\n        </div>\r\n        <div class=\"hs-links\">\r\n          <a class=\"hs-link\" href=\"https://dx.doi.org/10.5350/BTDMJB201107302\" target=\"_blank\" rel=\"noopener nofollow\">DOI Bağlantısı</a>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">17</span>\r\n            <div>\r\n              <h4>Kısa Süreli Ameliyatlarda Laringeal Maske Havayolu ve Kobra Perilaringeal Havayolunun Etkinlik ve Komplikasyonlarının Karşılaştırılması</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2009</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Kemal Tural, Hüsnü Süslü, Gülten Arslan, Yaman Özyurt</p>\r\n          <p><strong>Yayın Yeri:</strong> J Kartal TR</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag ulusal\">Ulusal Hakemli</span>\r\n          <span class=\"hs-tag diger\">Diğer Endeksler</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">18</span>\r\n            <div>\r\n              <h4>Kronik Bel Ağrısında Transforaminal Epidural Steroid Tedavisinin Etkinliği</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2008</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Hüsnü Süslü, Elif Atar, Gülten Arslan, İzzet Alatlı, Murat Altun, Serhan Çolakoğlu Abraz</p>\r\n          <p><strong>Yayın Yeri:</strong> Kartal Eğitim ve Araştırma Hastanesi Tıp Dergisi</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag ulusal\">Ulusal Hakemli</span>\r\n          <span class=\"hs-tag diger\">Diğer Endeksler</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">19</span>\r\n            <div>\r\n              <h4>Elektif Histerektomilerde Epidural Anestezi Uygulamalarında Levobupivakain ve Bupivakainin Etkilerinin Karşılaştırılması</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2008</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Feriha Temizel, Özlem Demirtaş, Tamer Kuzucuoğlu, Gülten Arslan, Hakan Erkal, Hüsnü Süslü, Yaman Özyurt, Göksu Yurtcan</p>\r\n          <p><strong>Yayın Yeri:</strong> Kartal Eğitim ve Araştırma Hastanesi Tıp Dergisi</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag ulusal\">Ulusal Hakemli</span>\r\n          <span class=\"hs-tag diger\">Diğer Endeksler</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">20</span>\r\n            <div>\r\n              <h4>İntoksikasyonlara Güncel Yaklaşım</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2007</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Gülten Arslan, Kemal Tural, Yaman Özyurt, Hüsnü Süslü, Tamer Kuzucuoğlu</p>\r\n          <p><strong>Yayın Yeri:</strong> Kartal Eğitim ve Araştırma Hastanesi Tıp Dergisi</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag ulusal\">Ulusal Hakemli</span>\r\n          <span class=\"hs-tag diger\">Diğer Endeksler</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">21</span>\r\n            <div>\r\n              <h4>Protein S Eksikliği Olan Hastada Elektif Histerektomide Genel Anestezi Yöntemi Olgu Sunumu</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2006</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Hakan Erkal, Oktay Özdinç, Yaman Özyurt, Hüsnü Süslü, Zuhal Arıkan</p>\r\n          <p><strong>Yayın Yeri:</strong> Kartal Eğitim ve Araştırma Hastanesi Tıp Dergisi</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag ulusal\">Ulusal Hakemli</span>\r\n          <span class=\"hs-tag diger\">Diğer Endeksler</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">22</span>\r\n            <div>\r\n              <h4>Mivakuryum Sonrası Gelişen Uzamış Nöromüsküler Blok</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2006</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Hakan Erkal, Yaman Özyurt, Gülten Arslan, Hüsnü Süslü, Zuhal Arıkan</p>\r\n          <p><strong>Yayın Yeri:</strong> Kartal Eğitim ve Araştırma Hastanesi Tıp Dergisi</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag ulusal\">Ulusal Hakemli</span>\r\n          <span class=\"hs-tag diger\">Diğer Endeksler</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">23</span>\r\n            <div>\r\n              <h4>Laringoskopi ve Trakeal Entübasyona Bağlı Hemodinamik Yanıtın Önlenmesinde Sufentanil Lidokain ve Magnezyum Sülfatın Karşılaştırılması</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2004</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Gülten Arslan, Tamer Kuzucuoğlu, Hüsnü Süslü, Hüseyin Özkan, Hakan Korucu, Zuhal Arıkan</p>\r\n          <p><strong>Yayın Yeri:</strong> Kartal Eğitim ve Araştırma Hastanesi Tıp Dergisi</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag ulusal\">Ulusal Hakemli</span>\r\n          <span class=\"hs-tag diger\">Diğer Endeksler</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">24</span>\r\n            <div>\r\n              <h4>Elektif Cerrahide İndüksiyonda Kullanılan Sufentanilin Göziçi Basıncı ve Hemodinami Üzerine Olan Etkileri</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2004</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Gülten Arslan, Hüsnü Süslü, Tamer Kuzucuoğlu, Feriha Temizel, Esra Onuray, Zuhal Arıkan</p>\r\n          <p><strong>Yayın Yeri:</strong> Kartal Eğitim ve Araştırma Hastanesi Tıp Dergisi</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag ulusal\">Ulusal Hakemli</span>\r\n          <span class=\"hs-tag diger\">Diğer Endeksler</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">25</span>\r\n            <div>\r\n              <h4>Miller Fisher Sendromu</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2003</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Yaman Özyurt, Hüsnü Süslü, Hakan Erkal, Gülten Arslan, Gülgüle Ersoy, Erhan Çıplaklıgil, Zuhal Arıkan</p>\r\n          <p><strong>Yayın Yeri:</strong> Yoğun Bakım Dergisi</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag ulusal\">Ulusal Hakemli</span>\r\n          <span class=\"hs-tag diger\">Diğer Endeksler</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">26</span>\r\n            <div>\r\n              <h4>Epidural Anestezide %0.5 Ropivakain Kullanımına Bağlı Epileptik Nöbet Olgu Sunumu</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">2002</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Hüsnü Süslü, Banu Çevik, Zuhal Arıkan, Serhan Çolakoğlu</p>\r\n          <p><strong>Yayın Yeri:</strong> Kartal Eğitim ve Araştırma Hastanesi Tıp Dergisi</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag ulusal\">Ulusal Hakemli</span>\r\n          <span class=\"hs-tag diger\">Diğer Endeksler</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">27</span>\r\n            <div>\r\n              <h4>%5 Mannitol Kullanılan Transuretral Prostat Rezeksiyonlarında TUR-P Meydana Gelen Değişiklikler</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">1999</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Banu Çevik, Hüsnü Süslü, Arzum Örskıran, Funda Caymaz, Zuhal Arıkan</p>\r\n          <p><strong>Yayın Yeri:</strong> Okmeydanı Tıp Dergisi</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag ulusal\">Ulusal Hakemli</span>\r\n          <span class=\"hs-tag diger\">Diğer Endeksler</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n        </div>\r\n      </article>\r\n\r\n      <article class=\"hs-card\">\r\n        <div class=\"hs-top\">\r\n          <div class=\"hs-heading\">\r\n            <span class=\"hs-num\">28</span>\r\n            <div>\r\n              <h4>Freidrich Ataksisi’nde Anestezi</h4>\r\n            </div>\r\n          </div>\r\n          <span class=\"hs-year\">1999</span>\r\n        </div>\r\n        <div class=\"hs-meta\">\r\n          <p><strong>Yazarlar:</strong> Banu Çevik, Hüsnü Süslü, Ç Arzum Örskıran, Melek Çelik, Zuhal Arıkan</p>\r\n          <p><strong>Yayın Yeri:</strong> Kartal Eğitim ve Araştırma Hastanesi Tıp Dergisi</p>\r\n        </div>\r\n        <div class=\"hs-tags\">\r\n          <span class=\"hs-tag ulusal\">Ulusal Hakemli</span>\r\n          <span class=\"hs-tag diger\">Diğer Endeksler</span>\r\n          <span class=\"hs-tag\">Özgün Makale</span>\r\n        </div>\r\n      </article>\r\n\r\n    </div>\r\n\r\n    <div class=\"hs-note\">\r\n      Bu sayfadaki yayın listesi bilgilendirme amaçlı sunulmuştur. Güncel görünürlük, atıf ve profil doğrulaması için Google Scholar profili ayrıca incelenebilir.\r\n    </div>\r\n\r\n  </div>\r\n</section>"
+                },
+                "elements": [],
+                "widgetType": "html"
+            }
+        ],
+        "isInner": false
+    },
+    {
+        "id": "513d302",
+        "elType": "container",
+        "settings": {
+            "flex_direction": "column"
+        },
+        "elements": [
+            {
+                "id": "54ea2f8",
+                "elType": "widget",
+                "settings": {
+                    "html": "<script type=\"application/ld+json\">\r\n{\r\n  \"@context\":\"https://schema.org\",\r\n  \"@type\":\"Person\",\r\n  \"name\":\"Prof. Dr. Hüsnü Süslü\",\r\n  \"jobTitle\":\"Algoloji Uzmanı\",\r\n  \"url\":\"https://husnususlu.test/\",\r\n  \"sameAs\":[\r\n    \"https://husnususlu.test/hakkimda/\",\r\n    \"https://scholar.google.com/citations?user=eEMcgJkAAAAJ&hl=tr\"\r\n  ],\r\n  \"knowsAbout\":[\r\n    \"Algoloji\",\r\n    \"Kronik ağrı tedavisi\",\r\n    \"Bel fıtığı tedavisi\",\r\n    \"Boyun fıtığı tedavisi\",\r\n    \"Girişimsel ağrı tedavileri\"\r\n  ]\r\n}\r\n</script>"
+                },
+                "elements": [],
+                "widgetType": "html"
+            }
+        ],
+        "isInner": false
+    }
+]

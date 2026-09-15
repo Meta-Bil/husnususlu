@@ -1,0 +1,1834 @@
+[
+    {
+        "id": "5a08d2c",
+        "elType": "container",
+        "settings": {
+            "layout": "full_width",
+            "boxed_width": {
+                "unit": "px",
+                "size": "1200",
+                "sizes": []
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+                "horizontal": "0",
+                "vertical": "5",
+                "blur": "30",
+                "spread": "0",
+                "color": "rgba(0,0,0,0.1)"
+            },
+            "z_index": "10",
+            "_title": "Header",
+            "flex_direction": "column",
+            "flex_align_items": "center",
+            "flex_gap": {
+                "size": 0,
+                "unit": "px",
+                "column": "0",
+                "row": "0",
+                "isLinked": true
+            },
+            "content_width": "full",
+            "flex_wrap": "wrap",
+            "padding": {
+                "unit": "%",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+            },
+            "padding_tablet": {
+                "unit": "%",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+            },
+            "padding_mobile": {
+                "unit": "%",
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": "",
+                "isLinked": true
+            },
+            "sticky": "top",
+            "background_background": "classic"
+        },
+        "elements": [
+            {
+                "id": "2090147",
+                "elType": "container",
+                "settings": {
+                    "width": {
+                        "unit": "px",
+                        "size": "1200",
+                        "sizes": []
+                    },
+                    "structure": "30",
+                    "background_background": "classic",
+                    "background_color": "#16163f",
+                    "margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": "1"
+                    },
+                    "margin_mobile": {
+                        "unit": "px",
+                        "top": "",
+                        "right": "0",
+                        "bottom": "",
+                        "left": "0",
+                        "isLinked": "1"
+                    },
+                    "padding": {
+                        "unit": "px",
+                        "top": "12",
+                        "right": "12",
+                        "bottom": "12",
+                        "left": "12",
+                        "isLinked": true
+                    },
+                    "padding_mobile": {
+                        "unit": "px",
+                        "top": "15",
+                        "right": "15",
+                        "bottom": "15",
+                        "left": "15",
+                        "isLinked": "1"
+                    },
+                    "reverse_order_mobile": "reverse-mobile",
+                    "flex_direction": "row",
+                    "flex_align_items": "stretch",
+                    "flex_gap": {
+                        "size": 10,
+                        "unit": "px",
+                        "column": "10",
+                        "row": "10",
+                        "isLinked": true
+                    },
+                    "boxed_width": {
+                        "unit": "px",
+                        "size": 1200,
+                        "sizes": []
+                    },
+                    "flex_justify_content": "space-between",
+                    "padding_tablet": {
+                        "unit": "px",
+                        "top": "27",
+                        "right": "15",
+                        "bottom": "27",
+                        "left": "15",
+                        "isLinked": false
+                    }
+                },
+                "elements": [
+                    {
+                        "id": "b7d30f9",
+                        "elType": "container",
+                        "settings": {
+                            "_column_size": "33",
+                            "width": {
+                                "unit": "px",
+                                "size": 742
+                            },
+                            "hide_mobile": "hidden-mobile",
+                            "flex_justify_content": "center",
+                            "padding": {
+                                "unit": "px",
+                                "top": "0",
+                                "right": "0",
+                                "bottom": "0",
+                                "left": "0",
+                                "isLinked": "1"
+                            },
+                            "padding_tablet": {
+                                "unit": "px",
+                                "top": "",
+                                "right": "",
+                                "bottom": "",
+                                "left": "",
+                                "isLinked": "1"
+                            },
+                            "width_tablet": {
+                                "size": "75",
+                                "unit": "%"
+                            },
+                            "content_width": "full",
+                            "width_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "boxed_width": {
+                                "unit": "px",
+                                "size": 836,
+                                "sizes": []
+                            },
+                            "flex_direction": "column",
+                            "flex_align_items": "flex-start",
+                            "_flex_size": "none",
+                            "_element_width": "initial"
+                        },
+                        "elements": [
+                            {
+                                "id": "f0f4bac",
+                                "elType": "widget",
+                                "settings": {
+                                    "view": "inline",
+                                    "icon_list": [
+                                        {
+                                            "text": "+90 216 234 1881",
+                                            "icon": "fa fa-phone",
+                                            "_id": "33ae49b",
+                                            "selected_icon": {
+                                                "value": "fas fa-phone",
+                                                "library": "fa-solid"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "tel:+902162341881",
+                                                "is_external": "",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        },
+                                        {
+                                            "text": "Whatsapp İletişim",
+                                            "icon": "fa fa-envelope",
+                                            "_id": "b3e8ba8",
+                                            "selected_icon": {
+                                                "value": "fab fa-whatsapp",
+                                                "library": "fa-brands"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "https://wa.me/905301718860",
+                                                "is_external": "",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        },
+                                        {
+                                            "text": "Adres Bilgisi için Tıklayınız.",
+                                            "icon": "fa fa-envelope",
+                                            "selected_icon": {
+                                                "value": "fas fa-map-marked-alt",
+                                                "library": "fa-solid"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "https://maps.app.goo.gl/HQ6rkDqY6yPTN35q7",
+                                                "is_external": "",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            },
+                                            "_id": "75e9eec"
+                                        }
+                                    ],
+                                    "space_between": {
+                                        "unit": "px",
+                                        "size": "30",
+                                        "sizes": []
+                                    },
+                                    "icon_align": "left",
+                                    "icon_color": "#ffffff",
+                                    "icon_size": {
+                                        "unit": "px",
+                                        "size": "16",
+                                        "sizes": []
+                                    },
+                                    "text_color": "#ffffff",
+                                    "text_indent": {
+                                        "unit": "px",
+                                        "size": "10",
+                                        "sizes": []
+                                    },
+                                    "icon_typography_typography": "custom",
+                                    "icon_typography_font_family": "Montserrat",
+                                    "icon_typography_font_size": {
+                                        "unit": "px",
+                                        "size": "14",
+                                        "sizes": []
+                                    },
+                                    "icon_typography_font_weight": "300",
+                                    "icon_align_mobile": "center",
+                                    "icon_typography_font_size_tablet": {
+                                        "unit": "px",
+                                        "size": 12,
+                                        "sizes": []
+                                    },
+                                    "text": "Adres için Tıklayınız.",
+                                    "link": {
+                                        "url": "https://maps.app.goo.gl/HQ6rkDqY6yPTN35q7",
+                                        "is_external": "",
+                                        "nofollow": "",
+                                        "custom_attributes": ""
+                                    },
+                                    "selected_icon": {
+                                        "value": "fas fa-map-marker-alt",
+                                        "library": "fa-solid"
+                                    },
+                                    "_background_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    }
+                                },
+                                "elements": [],
+                                "widgetType": "icon-list"
+                            }
+                        ],
+                        "isInner": true
+                    },
+                    {
+                        "id": "b0b361e",
+                        "elType": "container",
+                        "settings": {
+                            "_column_size": "33",
+                            "width": {
+                                "unit": "px",
+                                "size": 209
+                            },
+                            "flex_justify_content": "flex-end",
+                            "padding": {
+                                "unit": "px",
+                                "top": "0",
+                                "right": "0",
+                                "bottom": "0",
+                                "left": "0",
+                                "isLinked": "1"
+                            },
+                            "padding_tablet": {
+                                "unit": "px",
+                                "top": "",
+                                "right": "",
+                                "bottom": "",
+                                "left": "",
+                                "isLinked": "1"
+                            },
+                            "width_tablet": {
+                                "size": 28,
+                                "unit": "%"
+                            },
+                            "width_mobile": {
+                                "size": 100,
+                                "unit": "%"
+                            },
+                            "content_width": "full",
+                            "flex_direction": "row",
+                            "flex_direction_mobile": "row-reverse",
+                            "flex_justify_content_mobile": "space-between",
+                            "flex_align_items": "center",
+                            "_flex_size": "none",
+                            "_element_width": "initial"
+                        },
+                        "elements": [
+                            {
+                                "id": "e5d3814",
+                                "elType": "widget",
+                                "settings": {
+                                    "skin": "full_screen",
+                                    "placeholder": "",
+                                    "button_text": "Search",
+                                    "size": {
+                                        "unit": "px",
+                                        "size": "34",
+                                        "sizes": []
+                                    },
+                                    "toggle_align": "right",
+                                    "toggle_size": {
+                                        "unit": "px",
+                                        "size": "31",
+                                        "sizes": []
+                                    },
+                                    "icon_size_minimal": {
+                                        "unit": "px",
+                                        "size": "18",
+                                        "sizes": []
+                                    },
+                                    "overlay_background_color": "rgba(22,22,63,0.9)",
+                                    "input_typography_typography": "custom",
+                                    "input_typography_font_family": "Montserrat",
+                                    "input_typography_font_size": {
+                                        "unit": "px",
+                                        "size": "40",
+                                        "sizes": []
+                                    },
+                                    "input_typography_font_weight": "300",
+                                    "input_text_color": "#ffffff",
+                                    "input_background_color": "rgba(255,255,255,0)",
+                                    "input_border_color": "rgba(255,255,255,0.5)",
+                                    "border_radius": {
+                                        "unit": "px",
+                                        "size": "0",
+                                        "sizes": []
+                                    },
+                                    "toggle_color": "#ffffff",
+                                    "toggle_color_hover": "#d3b574",
+                                    "toggle_icon_size": {
+                                        "unit": "px",
+                                        "size": "50",
+                                        "sizes": []
+                                    },
+                                    "_background_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    }
+                                },
+                                "elements": [],
+                                "widgetType": "search-form"
+                            },
+                            {
+                                "id": "4d8bbc3",
+                                "elType": "widget",
+                                "settings": {
+                                    "view": "inline",
+                                    "icon_list": [
+                                        {
+                                            "text": "",
+                                            "icon": "fa fa-twitter",
+                                            "_id": "6fb0b8f",
+                                            "selected_icon": {
+                                                "value": "fab fa-youtube",
+                                                "library": "fa-brands"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "https://www.youtube.com/channel/UCoU8bAxh8FInLBYwz6Ljo9A",
+                                                "is_external": "on",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        },
+                                        {
+                                            "text": "",
+                                            "icon": "fa fa-linkedin",
+                                            "_id": "c22772a",
+                                            "selected_icon": {
+                                                "value": "fab fa-linkedin-in",
+                                                "library": "fa-brands"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "https://www.linkedin.com/in/h%C3%BCsn%C3%BC-s%C3%BCsl%C3%BC-6804a618b/?originalSubdomain=tr",
+                                                "is_external": "on",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        },
+                                        {
+                                            "text": "",
+                                            "icon": "fa fa-facebook-f",
+                                            "_id": "d730051",
+                                            "selected_icon": {
+                                                "value": "fab fa-facebook-f",
+                                                "library": "fa-brands"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "link": {
+                                                "url": "https://www.facebook.com/DrHusnuSuslu",
+                                                "is_external": "on",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        },
+                                        {
+                                            "text": "",
+                                            "icon": "fa fa-facebook-f",
+                                            "selected_icon": {
+                                                "value": "fab fa-instagram",
+                                                "library": "fa-brands"
+                                            },
+                                            "__fa4_migrated": {
+                                                "selected_icon": "1"
+                                            },
+                                            "_id": "fc3fe14",
+                                            "link": {
+                                                "url": "https://www.instagram.com/husnususlu/",
+                                                "is_external": "on",
+                                                "nofollow": "",
+                                                "custom_attributes": ""
+                                            }
+                                        }
+                                    ],
+                                    "space_between": {
+                                        "unit": "px",
+                                        "size": "15",
+                                        "sizes": []
+                                    },
+                                    "icon_align": "right",
+                                    "icon_color": "#ffffff",
+                                    "icon_size": {
+                                        "unit": "px",
+                                        "size": "18",
+                                        "sizes": []
+                                    },
+                                    "icon_align_mobile": "left",
+                                    "icon_color_hover": "#d3b574",
+                                    "icon_self_align": "center",
+                                    "selected_icon": {
+                                        "value": "fab fa-instagram",
+                                        "library": "fa-brands"
+                                    },
+                                    "_background_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_tablet": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_color_b_stop_mobile": {
+                                        "unit": "%",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_tablet": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    },
+                                    "_background_hover_gradient_angle_mobile": {
+                                        "unit": "deg",
+                                        "size": "",
+                                        "sizes": []
+                                    }
+                                },
+                                "elements": [],
+                                "widgetType": "icon-list"
+                            }
+                        ],
+                        "isInner": true
+                    }
+                ],
+                "isInner": true
+            },
+            {
+                "id": "40a743d",
+                "elType": "container",
+                "settings": {
+                    "width": {
+                        "unit": "px",
+                        "size": 1600,
+                        "sizes": []
+                    },
+                    "structure": "30",
+                    "background_background": "classic",
+                    "background_color": "#ffffff",
+                    "margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": "1"
+                    },
+                    "padding": {
+                        "unit": "px",
+                        "top": "15",
+                        "right": "12",
+                        "bottom": "15",
+                        "left": "12",
+                        "isLinked": ""
+                    },
+                    "padding_tablet": {
+                        "unit": "px",
+                        "top": "20",
+                        "right": "15",
+                        "bottom": "20",
+                        "left": "15",
+                        "isLinked": ""
+                    },
+                    "flex_direction": "row",
+                    "flex_align_items": "center",
+                    "flex_gap": {
+                        "size": 10,
+                        "unit": "px",
+                        "column": "10",
+                        "row": "10",
+                        "isLinked": true
+                    },
+                    "boxed_width": {
+                        "unit": "px",
+                        "size": 1200,
+                        "sizes": []
+                    },
+                    "flex_justify_content": "space-between",
+                    "content_width": "full"
+                },
+                "elements": [
+                    {
+                        "id": "08fe940",
+                        "elType": "widget",
+                        "settings": {
+                            "__dynamic__": {
+                                "image": "[elementor-tag id=\"\" name=\"site-logo\" settings=\"%7B%7D\"]"
+                            },
+                            "image_size": "medium",
+                            "width": {
+                                "unit": "%",
+                                "size": 81,
+                                "sizes": []
+                            },
+                            "_background_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "theme-site-logo"
+                    },
+                    {
+                        "id": "9df05ba",
+                        "elType": "widget",
+                        "settings": {
+                            "align_items": "center",
+                            "menu_typography_typography": "custom",
+                            "menu_typography_font_family": "Montserrat",
+                            "menu_typography_font_size": {
+                                "unit": "px",
+                                "size": "16",
+                                "sizes": []
+                            },
+                            "menu_typography_font_weight": "400",
+                            "color_menu_item": "#16163f",
+                            "color_menu_item_hover": "#d3b574",
+                            "pointer_width": {
+                                "unit": "px",
+                                "size": "0",
+                                "sizes": []
+                            },
+                            "padding_horizontal_menu_item": {
+                                "unit": "px",
+                                "size": "0",
+                                "sizes": []
+                            },
+                            "menu_space_between": {
+                                "unit": "px",
+                                "size": "50",
+                                "sizes": []
+                            },
+                            "color_dropdown_item": "#16163f",
+                            "color_dropdown_item_hover": "#d3b574",
+                            "background_color_dropdown_item_hover": "rgba(0,0,0,0)",
+                            "color_dropdown_item_active": "#d3b574",
+                            "background_color_dropdown_item_active": "rgba(0,0,0,0)",
+                            "dropdown_typography_typography": "custom",
+                            "dropdown_typography_font_family": "Montserrat",
+                            "dropdown_typography_font_size": {
+                                "unit": "px",
+                                "size": "16",
+                                "sizes": []
+                            },
+                            "dropdown_typography_font_weight": "400",
+                            "dropdown_box_shadow_box_shadow_type": "yes",
+                            "dropdown_box_shadow_box_shadow": {
+                                "horizontal": "0",
+                                "vertical": "15",
+                                "blur": "20",
+                                "spread": "0",
+                                "color": "rgba(0,0,0,0.1)"
+                            },
+                            "padding_horizontal_dropdown_item": {
+                                "unit": "px",
+                                "size": "10",
+                                "sizes": []
+                            },
+                            "padding_vertical_dropdown_item": {
+                                "unit": "px",
+                                "size": "20",
+                                "sizes": []
+                            },
+                            "dropdown_top_distance": {
+                                "unit": "px",
+                                "size": "15",
+                                "sizes": []
+                            },
+                            "menu_typography_text_transform": "capitalize",
+                            "full_width": "stretch",
+                            "text_align": "center",
+                            "toggle_align": "right",
+                            "dropdown_typography_font_size_mobile": {
+                                "unit": "px",
+                                "size": "16",
+                                "sizes": []
+                            },
+                            "padding_vertical_dropdown_item_mobile": {
+                                "unit": "px",
+                                "size": "24",
+                                "sizes": []
+                            },
+                            "dropdown_top_distance_tablet": {
+                                "unit": "px",
+                                "size": "20",
+                                "sizes": []
+                            },
+                            "dropdown_top_distance_mobile": {
+                                "unit": "px",
+                                "size": "20",
+                                "sizes": []
+                            },
+                            "toggle_color": "#16163f",
+                            "toggle_background_color": "#ffffff",
+                            "menu": "ana-menu",
+                            "_element_width": "initial",
+                            "_element_custom_width": {
+                                "unit": "%",
+                                "size": 57.421
+                            },
+                            "_flex_size": "none",
+                            "_background_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "menu_name": "Menü"
+                        },
+                        "elements": [],
+                        "widgetType": "nav-menu"
+                    },
+                    {
+                        "id": "2ff7cb7",
+                        "elType": "widget",
+                        "settings": {
+                            "text": "Randevu Seçenekleri",
+                            "align": "right",
+                            "icon": "fa fa-long-arrow-right",
+                            "icon_align": "right",
+                            "icon_indent": {
+                                "unit": "px",
+                                "size": "10",
+                                "sizes": []
+                            },
+                            "typography_typography": "custom",
+                            "typography_font_family": "Montserrat",
+                            "typography_font_size": {
+                                "unit": "px",
+                                "size": "16",
+                                "sizes": []
+                            },
+                            "typography_font_weight": "400",
+                            "button_text_color": "#FAFAFA",
+                            "background_color": "#0F2383",
+                            "border_radius": {
+                                "unit": "px",
+                                "top": "0",
+                                "right": "0",
+                                "bottom": "0",
+                                "left": "0",
+                                "isLinked": "1"
+                            },
+                            "hover_color": "#0F2383",
+                            "button_background_hover_color": "#FAFAFA",
+                            "size": "md",
+                            "text_padding_mobile": {
+                                "unit": "px",
+                                "top": "15",
+                                "right": "20",
+                                "bottom": "15",
+                                "left": "20",
+                                "isLinked": ""
+                            },
+                            "typography_text_transform": "capitalize",
+                            "selected_icon": {
+                                "value": "fas fa-long-arrow-alt-right",
+                                "library": "fa-solid"
+                            },
+                            "__fa4_migrated": {
+                                "selected_icon": "1"
+                            },
+                            "__dynamic__": {
+                                "link": "[elementor-tag id=\"1a05bf9\" name=\"popup\" settings=\"%7B%22popup%22%3A%2244%22%7D\"]"
+                            },
+                            "hide_mobile": "hidden-phone",
+                            "typography_font_size_mobile": {
+                                "unit": "px",
+                                "size": 13,
+                                "sizes": []
+                            },
+                            "_background_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_tablet": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_color_b_stop_mobile": {
+                                "unit": "%",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_tablet": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            },
+                            "_background_hover_gradient_angle_mobile": {
+                                "unit": "deg",
+                                "size": "",
+                                "sizes": []
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "button"
+                    }
+                ],
+                "isInner": true
+            }
+        ],
+        "isInner": false
+    },
+    {
+        "id": "4b8d138",
+        "elType": "container",
+        "settings": {
+            "flex_direction": "column"
+        },
+        "elements": [
+            {
+                "id": "4f53d72",
+                "elType": "widget",
+                "settings": {
+                    "playlist_title": "Prof.Dr. Hüsnü Süslü Videoları",
+                    "tabs": [
+                        {
+                            "title": "Profesör Doktor Hüsnü Süslü Nükleoplasti İşlemi Nedir?",
+                            "youtube_url": "https://www.youtube.com/watch?v=obBgAWjzUpQ",
+                            "duration": "1:38",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/obBgAWjzUpQ/maxresdefault.jpg"
+                            },
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "_id": "2d1b389"
+                        },
+                        {
+                            "title": "Her Bel Ağrısı Fıtık mıdır? Profesör Doktor Hüsnü Süslü",
+                            "youtube_url": "https://www.youtube.com/shorts/JLp83nsJ5YA",
+                            "duration": "1:12",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/JLp83nsJ5YA/maxresdefault.jpg"
+                            },
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "_id": "0138a91"
+                        },
+                        {
+                            "title": "Fıtıkta tek çözüm ameliyat mı? Prof. Dr. Hüsnü Süslü",
+                            "youtube_url": "https://www.youtube.com/shorts/-0BzLM8NrbE",
+                            "duration": "1:17",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/-0BzLM8NrbE/maxresdefault.jpg"
+                            },
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "_id": "c844ab3"
+                        },
+                        {
+                            "title": "Ağrılarınız Psikolojik mi?",
+                            "youtube_url": "https://www.youtube.com/shorts/o4RYyLR-QJ8",
+                            "duration": "0:18",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/o4RYyLR-QJ8/maxresdefault.jpg"
+                            },
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "_id": "8a95729"
+                        },
+                        {
+                            "title": "Nükleoplasti İşlemi Nedir?",
+                            "youtube_url": "https://www.youtube.com/shorts/CwLZF9Hfa0A",
+                            "duration": "1:05",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/CwLZF9Hfa0A/maxresdefault.jpg"
+                            },
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "_id": "cadddc1"
+                        },
+                        {
+                            "title": "Prof. Dr. Hüsnü Süslü - NTV Uzman Bakış",
+                            "youtube_url": "https://www.youtube.com/watch?v=n-g6h1R2Ga8",
+                            "duration": "2:44",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/n-g6h1R2Ga8/maxresdefault.jpg"
+                            },
+                            "_id": "e3dab47",
+                            "vimeo_url": "https://vimeo.com/235215203"
+                        },
+                        {
+                            "title": "Prof. Dr. Hüsnü Süslü - OZON TEDAVİSİ -",
+                            "youtube_url": "https://www.youtube.com/watch?v=HFiXD7g7c3M",
+                            "duration": "3:11",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/HFiXD7g7c3M/maxresdefault.jpg"
+                            },
+                            "_id": "33184d3",
+                            "vimeo_url": "https://vimeo.com/235215203"
+                        },
+                        {
+                            "title": "Algoloji nedir?",
+                            "youtube_url": "https://www.youtube.com/watch?v=7E_AK71w5fk",
+                            "duration": "1:00",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/7E_AK71w5fk/maxresdefault.jpg"
+                            },
+                            "_id": "bdb498d",
+                            "vimeo_url": "https://vimeo.com/235215203"
+                        },
+                        {
+                            "_id": "bd1a632",
+                            "youtube_url": "https://www.youtube.com/watch?v=Br54yed9Xjc",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Prof. Dr. Hüsnü Süslü Beyaz Tv Şebnem Demir'le Biz Bize Programında...",
+                            "duration": "31:59",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/Br54yed9Xjc/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "youtube_url": "https://www.youtube.com/watch?v=Br54yed9Xjc",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Prof. Dr. Hüsnü Süslü Beyaz Tv Şebnem Demir'le Biz Bize Programında...",
+                            "duration": "31:59",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/Br54yed9Xjc/maxresdefault.jpg"
+                            },
+                            "_id": "8a7c7a4"
+                        },
+                        {
+                            "_id": "9b31974",
+                            "youtube_url": "https://www.youtube.com/watch?v=mqgfNZgYOoM",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "AĞRILARINIZ YAŞAM KALİTENİZİ DÜŞÜRMESİN #shorts",
+                            "duration": "1:02",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/mqgfNZgYOoM/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "youtube_url": "https://www.youtube.com/watch?v=vJlNDFcrfF0",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Prof. Dr. Hüsnü Süslü KONUŞTUKÇA'DA...",
+                            "duration": "11:46",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/vJlNDFcrfF0/maxresdefault.jpg"
+                            },
+                            "_id": "598d408"
+                        },
+                        {
+                            "_id": "af3b91b",
+                            "youtube_url": "https://www.youtube.com/watch?v=-AWn5RpcsC0",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Prof. Dr. Hüsnü Süslü  TV100 BİZBİZE'DE...",
+                            "duration": "15:41",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/-AWn5RpcsC0/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "63d6e2e",
+                            "youtube_url": "https://www.youtube.com/watch?v=bjN-EyT9quI",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Prof. Dr. Hüsnü Süslü I  GÖGÜS VE SIRT AĞRILARI",
+                            "duration": "1:13",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/bjN-EyT9quI/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "5bb51e1",
+                            "youtube_url": "https://www.youtube.com/watch?v=KBs3zw7ldMQ",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Prof. Dr. Hüsnü Süslü I AĞRI POMPASI",
+                            "duration": "1:15",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/KBs3zw7ldMQ/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "6003812",
+                            "youtube_url": "https://www.youtube.com/watch?v=ytYnmwHebUo",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Prof. Dr. Hüsnü Süslü I OMURİLİK PİLİ ( AĞRI PİLİ)",
+                            "duration": "1:18",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/ytYnmwHebUo/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "b921bf6",
+                            "youtube_url": "https://www.youtube.com/watch?v=N-HMuMdETTs",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Prof. Dr. Hüsnü Süslü I BACAK AGRILARI",
+                            "duration": "1:18",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/N-HMuMdETTs/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "efff48b",
+                            "youtube_url": "https://www.youtube.com/watch?v=hJOtwKfEvlY",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Prof. Dr. Hüsnü Süslü I PRİFORMİS SENDROMU (YALANCI SİYATİK)",
+                            "duration": "1:26",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/hJOtwKfEvlY/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "bff69fd",
+                            "youtube_url": "https://www.youtube.com/watch?v=ZA8AkBD0VRs",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I KARIN ÖN DUVARI AĞRILARI",
+                            "duration": "1:15",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/ZA8AkBD0VRs/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "e165539",
+                            "youtube_url": "https://www.youtube.com/watch?v=CATNJ41i2hM",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I BOYUN SIRT AĞRILARI",
+                            "duration": "1:29",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/CATNJ41i2hM/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "997c120",
+                            "youtube_url": "https://www.youtube.com/watch?v=r7xSzr69ROo",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I BAŞ AĞRISI",
+                            "duration": "1:32",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/r7xSzr69ROo/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "043be3c",
+                            "youtube_url": "https://www.youtube.com/watch?v=lDelqHTxOXc",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I OZON TEDAVİSİ",
+                            "duration": "1:21",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/lDelqHTxOXc/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "d6e31de",
+                            "youtube_url": "https://www.youtube.com/watch?v=XDJpUYZd2Q0",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I OMUZ AĞRISI",
+                            "duration": "1:26",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/XDJpUYZd2Q0/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "571c683",
+                            "youtube_url": "https://www.youtube.com/watch?v=EgZbP8ss5h4",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I TENİSÇİ DİRSEĞİ",
+                            "duration": "1:36",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/EgZbP8ss5h4/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "f645bcc",
+                            "youtube_url": "https://www.youtube.com/watch?v=vXVXnm2blN4",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I TOPUK DİKENİ",
+                            "duration": "1:47",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/vXVXnm2blN4/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "daf824a",
+                            "youtube_url": "https://www.youtube.com/watch?v=JShlKmDFPPE",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I Yaşlılarda Ağrılar",
+                            "duration": "1:24",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/JShlKmDFPPE/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "fa90bb2",
+                            "youtube_url": "https://www.youtube.com/watch?v=jVcAn27LWIs",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I  NEVRALJİLER",
+                            "duration": "1:46",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/jVcAn27LWIs/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "d15bc49",
+                            "youtube_url": "https://www.youtube.com/watch?v=TIi7yjnlp8U",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I PANDEMİ SÜRECİNDE AĞRILAR",
+                            "duration": "1:09",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/TIi7yjnlp8U/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "4ada37a",
+                            "youtube_url": "https://www.youtube.com/watch?v=a_NSCR1xi0s",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I SIRT AĞRISI",
+                            "duration": "1:44",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/a_NSCR1xi0s/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "5a8e9d8",
+                            "youtube_url": "https://www.youtube.com/watch?v=POtCbzTYxtE",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I TRİGEMİNAL NEVRALJİ",
+                            "duration": "1:19",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/POtCbzTYxtE/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "84973ff",
+                            "youtube_url": "https://www.youtube.com/watch?v=5RwgwFz6Eic",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I FİBROMİYALJİ",
+                            "duration": "1:10",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/5RwgwFz6Eic/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "10548a5",
+                            "youtube_url": "https://www.youtube.com/watch?v=NQ9aYCu-Dxg",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I Tetik Nokta Rahatsızlığı",
+                            "duration": "1:01",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/NQ9aYCu-Dxg/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "1bcbf34",
+                            "youtube_url": "https://www.youtube.com/watch?v=_clH4MRYbhE",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I Kanser Ağrılarında Girişimsel İşlemler",
+                            "duration": "1:13",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/_clH4MRYbhE/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "24e4d7b",
+                            "youtube_url": "https://www.youtube.com/watch?v=o8yOodARUEw",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I Epidural Enjeksiyon",
+                            "duration": "0:57",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/o8yOodARUEw/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "88e1004",
+                            "youtube_url": "https://www.youtube.com/watch?v=PiacCeIUklE",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü",
+                            "duration": "0:31",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/PiacCeIUklE/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "9a0df10",
+                            "youtube_url": "https://www.youtube.com/watch?v=U9Pz9_OBjQw",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I Canlı Yayın -Baş Ağrıları",
+                            "duration": "29:43",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/U9Pz9_OBjQw/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "5e63dc2",
+                            "youtube_url": "https://www.youtube.com/watch?v=pz-r72fHd38",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I Kanser Ağrıları",
+                            "duration": "30:58",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/pz-r72fHd38/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "d36e29c",
+                            "youtube_url": "https://www.youtube.com/watch?v=RqT7ABIIBsM",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I Servikal Ağrılar",
+                            "duration": "29:07",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/RqT7ABIIBsM/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "bf6e9f2",
+                            "youtube_url": "https://www.youtube.com/watch?v=jy-6tAwVYw8",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I Canlı Yayın -Sırt ve Göğüs Ağrıları",
+                            "duration": "37:00",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/jy-6tAwVYw8/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "64b1343",
+                            "youtube_url": "https://www.youtube.com/watch?v=3o1ORPfpoB4",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I Canlı Yayın -  Pelvik Ağrı Ve Kalça Ağrısı",
+                            "duration": "29:03",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/3o1ORPfpoB4/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "beaec4c",
+                            "youtube_url": "https://www.youtube.com/watch?v=zch8NM5CZ4Y",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I Canlı Yayın - Soru / Cevap",
+                            "duration": "51:36",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/zch8NM5CZ4Y/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "a7790d3",
+                            "youtube_url": "https://www.youtube.com/watch?v=AT-I34utOno",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I Ağrı Nedir?",
+                            "duration": "0:54",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/AT-I34utOno/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "3effa34",
+                            "youtube_url": "https://www.youtube.com/watch?v=wVLRWbC9wrM",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I Ozon Tedavisi",
+                            "duration": "1:10",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/wVLRWbC9wrM/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "3691e00",
+                            "youtube_url": "https://www.youtube.com/watch?v=k9b2DJlUC54",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Hüsnü Süslü I Bel Ağrıları",
+                            "duration": "2:56",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/k9b2DJlUC54/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "81a4585",
+                            "youtube_url": "https://www.youtube.com/watch?v=0_WqI1i7Wq8",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I Covid-19 Süreci",
+                            "duration": "1:02",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/0_WqI1i7Wq8/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "19fa267",
+                            "youtube_url": "https://www.youtube.com/watch?v=gUoao3bkfmA",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç. Dr. Hüsnü Süslü I Algoloji Nedir?",
+                            "duration": "0:37",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/gUoao3bkfmA/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "d746522",
+                            "youtube_url": "https://www.youtube.com/watch?v=nNSTXMkG7rE&t=1s",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Hüsnü Süslü I Kanser Ağrıları",
+                            "duration": "2:34",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/nNSTXMkG7rE/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "b990f58",
+                            "youtube_url": "https://www.youtube.com/watch?v=w1W8T_SaXCg",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Priformis Sendromu Kalça Ağrısı",
+                            "duration": "1:21",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/w1W8T_SaXCg/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "5fe86ce",
+                            "youtube_url": "https://www.youtube.com/watch?v=RXJ4ixm3M-Q",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Akıllı İlaç Kullanımı",
+                            "duration": "0:58",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/RXJ4ixm3M-Q/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "bcae07a",
+                            "youtube_url": "https://www.youtube.com/watch?v=K7nfH2tHB0A",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "YARIM YÜZ AĞRISI (TRİGEMİNAL NEVRALJİ)",
+                            "duration": "0:48",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/K7nfH2tHB0A/maxresdefault.jpg"
+                            }
+                        },
+                        {
+                            "_id": "f6e664b",
+                            "youtube_url": "https://www.youtube.com/watch?v=HqO9E6QT_j4",
+                            "vimeo_url": "https://vimeo.com/235215203",
+                            "title": "Doç.Dr. Hüsnü Süslü - Kanser Ağrıları ve Tedavileri",
+                            "duration": "2:30",
+                            "thumbnail": {
+                                "url": "https://img.youtube.com/vi/HqO9E6QT_j4/maxresdefault.jpg"
+                            }
+                        }
+                    ],
+                    "inner_tab_title_1": "Tab #1",
+                    "inner_tab_title_2": "Tab #2",
+                    "inner_tab_label_show_more": "Show More",
+                    "inner_tab_label_show_less": "Show Less",
+                    "lazy_load": "yes",
+                    "show_image_overlay": "yes",
+                    "image_overlay": {
+                        "url": "https://husnususlu.test/wp-content/uploads/2024/02/DSC05975-scaled-min-min.webp",
+                        "id": 61,
+                        "size": "",
+                        "alt": "Algoloji Uzmanı",
+                        "source": "library"
+                    }
+                },
+                "elements": [],
+                "widgetType": "video-playlist"
+            }
+        ],
+        "isInner": false
+    },
+    {
+        "id": "13fc12b",
+        "elType": "container",
+        "settings": {
+            "flex_direction": "row",
+            "flex_justify_content": "space-between"
+        },
+        "elements": [
+            {
+                "id": "21a1b4a",
+                "elType": "widget",
+                "settings": {
+                    "html": "<script src=\"https://apis.google.com/js/platform.js\"></script>\r\n\r\n<div class=\"g-ytsubscribe\" data-channelid=\"UCoU8bAxh8FInLBYwz6Ljo9A\" data-layout=\"full\" data-count=\"default\"></div>",
+                    "_animation": "tada"
+                },
+                "elements": [],
+                "widgetType": "html"
+            },
+            {
+                "id": "2026792",
+                "elType": "widget",
+                "settings": {
+                    "text": "Profesör Doktor Hüsnü Süslü Youtube Kanalından İzlemek için Tıklayınız.",
+                    "align": "center",
+                    "selected_icon": {
+                        "value": "fab fa-youtube",
+                        "library": "fa-brands"
+                    },
+                    "background_color": "#E10808",
+                    "link": {
+                        "url": "https://www.youtube.com/@ProfDrHusnuSuslu/videos",
+                        "is_external": "on",
+                        "nofollow": "",
+                        "custom_attributes": ""
+                    }
+                },
+                "elements": [],
+                "widgetType": "button"
+            }
+        ],
+        "isInner": false
+    },
+    {
+        "id": "aab9814",
+        "elType": "container",
+        "settings": {
+            "flex_direction": "column",
+            "flex_justify_content": "flex-end",
+            "flex_align_items": "center"
+        },
+        "elements": [
+            {
+                "id": "ee81d22",
+                "elType": "widget",
+                "settings": {
+                    "title": "Bilgilendirici bu videoları sevdikleriniz ile  paylaşabilirsiniz.",
+                    "typography_typography": "custom",
+                    "typography_font_size": {
+                        "unit": "px",
+                        "size": 20,
+                        "sizes": []
+                    }
+                },
+                "elements": [],
+                "widgetType": "heading"
+            },
+            {
+                "id": "de391f6",
+                "elType": "widget",
+                "settings": {
+                    "share_buttons": [
+                        {
+                            "_id": "c008c86"
+                        },
+                        {
+                            "button": "twitter",
+                            "_id": "0871322"
+                        },
+                        {
+                            "button": "linkedin",
+                            "_id": "c3e7d21"
+                        },
+                        {
+                            "_id": "3f6869e",
+                            "button": "whatsapp"
+                        }
+                    ],
+                    "view": "text",
+                    "shape": "rounded",
+                    "alignment": "center"
+                },
+                "elements": [],
+                "widgetType": "share-buttons"
+            }
+        ],
+        "isInner": false
+    },
+    {
+        "id": "0f249db",
+        "elType": "container",
+        "settings": {
+            "flex_direction": "column",
+            "boxed_width": {
+                "unit": "px",
+                "size": 1600,
+                "sizes": []
+            }
+        },
+        "elements": [
+            {
+                "id": "f412e35",
+                "elType": "widget",
+                "settings": {
+                    "marker": "underline",
+                    "before_text": "<p style=\"color:Red;\">Ağrısız</p>",
+                    "highlighted_text": "Yaşam",
+                    "rotating_text": "Better\nBigger\nFaster",
+                    "after_text": "Mümkün!",
+                    "words_color": "#258554",
+                    "_flex_align_self": "center",
+                    "_flex_order": "start",
+                    "_flex_size": "none",
+                    "_element_width": "initial",
+                    "_element_custom_width": {
+                        "unit": "%",
+                        "size": 27.106
+                    },
+                    "_background_color_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_color_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_color_b_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_color_b_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_gradient_angle_tablet": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_gradient_angle_mobile": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_b_stop_tablet": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_color_b_stop_mobile": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_gradient_angle_tablet": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    },
+                    "_background_hover_gradient_angle_mobile": {
+                        "unit": "deg",
+                        "size": "",
+                        "sizes": []
+                    }
+                },
+                "elements": [],
+                "widgetType": "animated-headline"
+            }
+        ],
+        "isInner": false
+    }
+]

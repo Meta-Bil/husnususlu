@@ -4,6 +4,61 @@
 @source '../../storage/framework/views/*.php';
 
 @theme {
-    --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
-        'Segoe UI Symbol', 'Noto Color Emoji';
+    /* Latin and Cyrillic faces are loaded by the Vite font plugin; Arabic faces
+       are only used while the right-to-left locale is active. */
+    --font-sans: 'Manrope', ui-sans-serif, system-ui, sans-serif;
+    --font-serif: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+    --font-arabic: 'IBM Plex Sans Arabic', 'Manrope', ui-sans-serif, system-ui, sans-serif;
+    --font-arabic-display: 'Noto Naskh Arabic', 'Cormorant Garamond', Georgia, serif;
+
+    /* Dark sections */
+    --color-navy-950: #0a1428;
+    --color-navy-900: #0e1a33;
+    --color-navy-800: #14254a;
+
+    /* Gold accent */
+    --color-gold-700: #9a7b3f;
+    --color-gold-500: #c9a961;
+    --color-gold-400: #d8bc7e;
+    --color-gold-300: #e2c98f;
+
+    /* Light sections */
+    --color-ivory: #f5f1e8;
+    --color-paper: #fbf9f4;
+    --color-line: #e3dccb;
+
+    /* Text */
+    --color-ink: #1a1f2b;
+    --color-ink-soft: #3f4656;
+    --color-ink-muted: #5b6272;
+    --color-cream: #ede6d6;
+    --color-cream-bright: #f3ecdd;
+    --color-mist: #b7bfd0;
+    --color-mist-muted: #a9b1c4;
+    --color-mist-dim: #8c95aa;
+}
+
+@layer base {
+    body {
+        font-family: var(--font-sans);
+        color: var(--color-ink);
+        background-color: var(--color-navy-950);
+        -webkit-font-smoothing: antialiased;
+    }
+
+    /* The Arabic locale swaps both faces and needs a little more leading. */
+    [dir='rtl'] body {
+        font-family: var(--font-arabic);
+        line-height: 1.8;
+    }
+}
+
+@utility font-display {
+    font-family: var(--font-serif);
+}
+
+[dir='rtl'] .font-display {
+    font-family: var(--font-arabic-display);
+    font-style: normal;
+    letter-spacing: normal;
 }
