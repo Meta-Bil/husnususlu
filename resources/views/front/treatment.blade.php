@@ -5,7 +5,7 @@
     use App\Support\Seo\Schema;
 
     $locale = app()->getLocale();
-    $segment = $treatment->kind->segmentKey();
+    $indexRoute = $treatment->kind->indexRouteName();
     $graph = array_merge(
         [Schema::forTreatment($treatment)],
         BlockRegistry::jsonLd($treatment->blocks),
@@ -22,7 +22,7 @@
 >
     <x-ui.breadcrumbs :items="[
         ['label' => __('front.home'), 'url' => route($locale.'.home')],
-        ['label' => $treatment->kind->getLabel(), 'url' => route($locale.'.'.$segment.'.index')],
+        ['label' => $treatment->kind->getLabel(), 'url' => route($locale.'.'.$indexRoute)],
         ['label' => $treatment->localized('title')],
     ]" />
 

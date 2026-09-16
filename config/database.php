@@ -64,6 +64,30 @@ return [
             ]) : [],
         ],
 
+        /*
+         * The old WordPress database, read by `php artisan wp:import` only.
+         * Nothing in the application writes to it: the importer issues SELECTs
+         * and the credentials should belong to a read-only MySQL user.
+         */
+        'wp' => [
+            'driver' => 'mysql',
+            'host' => env('DB_WP_HOST', '127.0.0.1'),
+            'port' => env('DB_WP_PORT', '3306'),
+            'database' => env('DB_WP_DATABASE', 'husnusus_wp551'),
+            'username' => env('DB_WP_USERNAME', 'root'),
+            'password' => env('DB_WP_PASSWORD', ''),
+            'unix_socket' => env('DB_SOCKET', ''),
+            'charset' => env('DB_WP_CHARSET', 'utf8mb4'),
+            'collation' => env('DB_WP_COLLATION', 'utf8mb4_unicode_ci'),
+            'prefix' => env('DB_WP_PREFIX', 'csrj_'),
+            'prefix_indexes' => true,
+            'strict' => false,
+            'engine' => null,
+            'options' => extension_loaded('pdo_mysql') ? array_filter([
+                Mysql::ATTR_SSL_CA => env('MYSQL_ATTR_SSL_CA'),
+            ]) : [],
+        ],
+
         'mariadb' => [
             'driver' => 'mariadb',
             'url' => env('DB_URL'),

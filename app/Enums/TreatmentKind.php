@@ -35,4 +35,16 @@ enum TreatmentKind: string implements HasLabel
             self::Procedure => 'procedures.show',
         };
     }
+
+    /**
+     * Route names use hyphens while segment keys use underscores, so the index
+     * route is derived here instead of from `segmentKey()`.
+     */
+    public function indexRouteName(): string
+    {
+        return match ($this) {
+            self::PainType => 'pain-types.index',
+            self::Procedure => 'procedures.index',
+        };
+    }
 }
