@@ -8,8 +8,8 @@ use App\Models\Page;
 use App\Models\Post;
 use App\Models\PostCategory;
 use App\Models\Treatment;
-use App\Support\Localization\LocaleUrls;
 use App\Support\Localization\Locales;
+use App\Support\Localization\LocaleUrls;
 use Illuminate\Http\Response;
 
 class SitemapController extends Controller

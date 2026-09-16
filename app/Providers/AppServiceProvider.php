@@ -2,6 +2,12 @@
 
 namespace App\Providers;
 
+use App\Models\Menu;
+use App\Models\MenuItem;
+use App\Models\Redirect;
+use App\Observers\MenuItemObserver;
+use App\Observers\MenuObserver;
+use App\Observers\RedirectObserver;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
@@ -19,6 +25,8 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        //
+        Menu::observe(MenuObserver::class);
+        MenuItem::observe(MenuItemObserver::class);
+        Redirect::observe(RedirectObserver::class);
     }
 }

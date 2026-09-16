@@ -13,7 +13,15 @@ Route::get('robots.txt', [SitemapController::class, 'robots'])->name('robots');
  * other languages under their own. Route names are prefixed with the locale
  * ("en.blog.show"), so links stay inside the visitor's language.
  */
-foreach (Locales::enabled() as $locale) {
+$locales = Locales::enabled();
+
+/*
+ * Prefixed locales are registered first: the default locale has no prefix and
+ * ends with a catch-all page route, which would otherwise swallow "/en".
+ */
+usort($locales, fn (string $a, string $b): int => strlen(Locales::prefix($b)) <=> strlen(Locales::prefix($a)));
+
+foreach ($locales as $locale) {
     Route::prefix(Locales::prefix($locale))
         ->name($locale.'.')
         ->middleware(SetLocale::class.':'.$locale)

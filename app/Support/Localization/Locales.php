@@ -89,7 +89,7 @@ class Locales
         $locale ??= app()->getLocale();
 
         return (string) (config("locales.segments.{$group}.{$locale}")
-            ?? config("locales.segments.{$group}." . self::default())
+            ?? config("locales.segments.{$group}.".self::default())
             ?? $group);
     }
 

@@ -25,7 +25,11 @@ class SiteSettings extends Settings
     /** @var array<string, string> Network => profile URL */
     public array $socials;
 
-    /** @var array{experience_years: int, patients: int, techniques: int, publications: int} */
+    /**
+     * Keys: experience_years, patients, techniques, publications.
+     *
+     * @var array<string, int>
+     */
     public array $stats;
 
     /** @var array<int, string> Channel names shown in the "Ekranlarda" strip */

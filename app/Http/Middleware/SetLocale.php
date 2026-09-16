@@ -16,7 +16,7 @@ class SetLocale
      * Each locale has its own route group, so the locale is a route parameter
      * of the middleware rather than something guessed from the request.
      *
-     * @param  \Closure(\Illuminate\Http\Request): (\Symfony\Component\HttpFoundation\Response)  $next
+     * @param  Closure(Request): (Response)  $next
      */
     public function handle(Request $request, Closure $next, string $locale): Response
     {

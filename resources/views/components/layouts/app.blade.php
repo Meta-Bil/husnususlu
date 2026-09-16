@@ -73,6 +73,7 @@
 
     <x-layout.footer />
     <x-layout.whatsapp-button />
+    <x-layout.cookie-consent />
 
     @stack('scripts')
 </body>

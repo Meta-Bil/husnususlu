@@ -39,6 +39,12 @@ return [
     'online_calendar' => 'Online takvim',
     'appointment_request' => 'Randevu talebi',
 
+    'not_found_title' => 'Aradığınız sayfa bulunamadı',
+    'not_found_text' => 'Sayfa taşınmış ya da kaldırılmış olabilir. Anasayfadan ya da blog yazılarından devam edebilirsiniz.',
+    'cookie_text' => 'Siteyi geliştirmek için ölçümleme çerezleri kullanıyoruz. Onayınız olmadan ölçümleme yapılmaz.',
+    'cookie_accept' => 'Kabul et',
+    'cookie_decline' => 'Reddet',
+
     'form' => [
         'name' => 'Ad Soyad',
         'phone' => 'Telefon',

@@ -7,6 +7,7 @@ use App\Models\Post;
 use App\Models\PostCategory;
 use App\Support\Seo\Meta;
 use Illuminate\Contracts\Pagination\LengthAwarePaginator;
+use Illuminate\Database\Eloquent\Collection;
 use Illuminate\View\View;
 
 class BlogController extends Controller
@@ -68,7 +69,7 @@ class BlogController extends Controller
     }
 
     /**
-     * @return \Illuminate\Database\Eloquent\Collection<int, PostCategory>
+     * @return Collection<int, PostCategory>
      */
     private function categories()
     {
