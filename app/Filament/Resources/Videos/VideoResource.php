@@ -13,12 +13,46 @@ use Filament\Resources\Resource;
 use Filament\Schemas\Schema;
 use Filament\Support\Icons\Heroicon;
 use Filament\Tables\Table;
+use Illuminate\Contracts\Support\Htmlable;
+use Illuminate\Database\Eloquent\Model;
+use UnitEnum;
 
 class VideoResource extends Resource
 {
     protected static ?string $model = Video::class;
 
-    protected static string|BackedEnum|null $navigationIcon = Heroicon::OutlinedRectangleStack;
+    protected static string|BackedEnum|null $navigationIcon = Heroicon::OutlinedVideoCamera;
+
+    protected static ?int $navigationSort = 10;
+
+    protected static bool $hasTitleCaseModelLabel = false;
+
+    public static function getNavigationLabel(): string
+    {
+        return 'Videolar';
+    }
+
+    public static function getModelLabel(): string
+    {
+        return 'video';
+    }
+
+    public static function getPluralModelLabel(): string
+    {
+        return 'videolar';
+    }
+
+    public static function getNavigationGroup(): string|UnitEnum|null
+    {
+        return 'Medya';
+    }
+
+    public static function getRecordTitle(?Model $record): string|Htmlable|null
+    {
+        return $record instanceof Video
+            ? ($record->localized('title', 'tr') ?? parent::getRecordTitle($record))
+            : parent::getRecordTitle($record);
+    }
 
     public static function form(Schema $schema): Schema
     {

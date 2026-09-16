@@ -13,12 +13,39 @@ use Filament\Resources\Resource;
 use Filament\Schemas\Schema;
 use Filament\Support\Icons\Heroicon;
 use Filament\Tables\Table;
+use UnitEnum;
 
 class RedirectResource extends Resource
 {
     protected static ?string $model = Redirect::class;
 
-    protected static string|BackedEnum|null $navigationIcon = Heroicon::OutlinedRectangleStack;
+    protected static string|BackedEnum|null $navigationIcon = Heroicon::OutlinedArrowPathRoundedSquare;
+
+    protected static ?int $navigationSort = 20;
+
+    protected static ?string $recordTitleAttribute = 'from_path';
+
+    protected static bool $hasTitleCaseModelLabel = false;
+
+    public static function getNavigationLabel(): string
+    {
+        return 'Yönlendirmeler';
+    }
+
+    public static function getModelLabel(): string
+    {
+        return 'yönlendirme';
+    }
+
+    public static function getPluralModelLabel(): string
+    {
+        return 'yönlendirmeler';
+    }
+
+    public static function getNavigationGroup(): string|UnitEnum|null
+    {
+        return 'Site';
+    }
 
     public static function form(Schema $schema): Schema
     {

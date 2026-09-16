@@ -13,14 +13,48 @@ use Filament\Resources\Resource;
 use Filament\Schemas\Schema;
 use Filament\Support\Icons\Heroicon;
 use Filament\Tables\Table;
+use Illuminate\Contracts\Support\Htmlable;
 use Illuminate\Database\Eloquent\Builder;
+use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
+use UnitEnum;
 
 class TreatmentResource extends Resource
 {
     protected static ?string $model = Treatment::class;
 
-    protected static string|BackedEnum|null $navigationIcon = Heroicon::OutlinedRectangleStack;
+    protected static string|BackedEnum|null $navigationIcon = Heroicon::OutlinedHeart;
+
+    protected static ?int $navigationSort = 10;
+
+    protected static bool $hasTitleCaseModelLabel = false;
+
+    public static function getNavigationLabel(): string
+    {
+        return 'Ağrı türleri ve tedaviler';
+    }
+
+    public static function getModelLabel(): string
+    {
+        return 'tedavi';
+    }
+
+    public static function getPluralModelLabel(): string
+    {
+        return 'ağrı türleri ve tedaviler';
+    }
+
+    public static function getNavigationGroup(): string|UnitEnum|null
+    {
+        return 'Tedaviler';
+    }
+
+    public static function getRecordTitle(?Model $record): string|Htmlable|null
+    {
+        return $record instanceof Treatment
+            ? ($record->localized('title', 'tr') ?? parent::getRecordTitle($record))
+            : parent::getRecordTitle($record);
+    }
 
     public static function form(Schema $schema): Schema
     {
