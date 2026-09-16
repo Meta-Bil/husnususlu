@@ -18,6 +18,25 @@ class BlockRegistry
     public const BLOCKS = [
         HeroBlock::class,
         StatsBlock::class,
+        MediaStripBlock::class,
+        TreatmentHighlightBlock::class,
+        TreatmentIndexBlock::class,
+        ComparisonTableBlock::class,
+        ProcessStepsBlock::class,
+        RichTextBlock::class,
+        ImageTextBlock::class,
+        TwoColumnListsBlock::class,
+        FaqBlock::class,
+        VideoGridBlock::class,
+        LatestPostsBlock::class,
+        DoctorProfileBlock::class,
+        TimelineBlock::class,
+        PackagesBlock::class,
+        RelatedTreatmentsBlock::class,
+        PublicationsLinkBlock::class,
+        ContactDetailsBlock::class,
+        AppointmentBlock::class,
+        CtaBandBlock::class,
     ];
 
     /**

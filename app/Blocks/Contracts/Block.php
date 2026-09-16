@@ -2,6 +2,9 @@
 
 namespace App\Blocks\Contracts;
 
+use Filament\Forms\Components\Field;
+use Filament\Schemas\Components\Component;
+
 /**
  * A content block: one editable section of a page.
  *
@@ -20,7 +23,7 @@ interface Block
     public static function icon(): string;
 
     /**
-     * @return array<int, \Filament\Schemas\Components\Component|\Filament\Forms\Components\Field>
+     * @return array<int, Component|Field>
      */
     public static function schema(): array;
 

@@ -39,6 +39,7 @@ return [
     'online_calendar' => 'Online calendar',
     'appointment_request' => 'Appointment request',
 
+    'publications' => 'Publications',
     'not_found_title' => 'We could not find that page',
     'not_found_text' => 'The page may have moved or been removed. Continue from the home page or the articles.',
     'cookie_text' => 'We use analytics cookies to improve the site. Nothing is measured without your consent.',
