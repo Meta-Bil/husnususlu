@@ -20,6 +20,8 @@ return [
     'related_posts' => 'İlgili yazılar',
     'related_treatments' => 'İlgili tedaviler',
     'other_pain_types' => 'Diğer ağrı türleri',
+    'pain_type' => 'Ağrı türü',
+    'procedure' => 'Girişimsel tedavi',
     'share' => 'Paylaş',
     'copy_link' => 'Bağlantıyı kopyala',
     'categories' => 'Kategoriler',

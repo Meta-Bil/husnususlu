@@ -20,6 +20,8 @@ return [
     'related_posts' => 'مقالات ذات صلة',
     'related_treatments' => 'علاجات ذات صلة',
     'other_pain_types' => 'أنواع الألم الأخرى',
+    'pain_type' => 'نوع الألم',
+    'procedure' => 'العلاج التداخلي',
     'share' => 'مشاركة',
     'copy_link' => 'نسخ الرابط',
     'categories' => 'التصنيفات',

@@ -9,11 +9,16 @@ enum TreatmentKind: string implements HasLabel
     case PainType = 'pain_type';
     case Procedure = 'procedure';
 
+    /**
+     * Also the heading and the breadcrumb of the public index pages, so it is
+     * translated rather than hard-coded. The admin panel runs in the default
+     * locale and still reads the Turkish.
+     */
     public function getLabel(): string
     {
         return match ($this) {
-            self::PainType => 'Ağrı türü',
-            self::Procedure => 'Girişimsel tedavi',
+            self::PainType => __('front.pain_type'),
+            self::Procedure => __('front.procedure'),
         };
     }
 

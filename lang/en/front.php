@@ -20,6 +20,8 @@ return [
     'related_posts' => 'Related articles',
     'related_treatments' => 'Related treatments',
     'other_pain_types' => 'Other types of pain',
+    'pain_type' => 'Type of pain',
+    'procedure' => 'Interventional treatment',
     'share' => 'Share',
     'copy_link' => 'Copy link',
     'categories' => 'Categories',
